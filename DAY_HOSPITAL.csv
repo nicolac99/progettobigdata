@@ -1,0 +1,1003 @@
+DATA_EVENTO;MOTIVAZIONE_RICOVERO;SESSO;ETA;FUMOSTRAT1;RISCHIO_CARDIOVASCOLARE;DATA_DIMISSIONE;;CODPAZ
+17/12/2012 00:00;ghghgh; ;; ; ;;;1
+17/06/2015 00:00;Episodi sincopali;Maschio;37;No;;06/08/2015 00:00;;37
+10/01/2012 00:00;Cradiopatia dilatativa in follow-up ;M;58;N;da 10% a 20%;06/12/2011 00:00;;422
+15/09/2014 00:00;Cardiopalmo aritmico;;;;;;;530
+01/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;63;S;da 20% a 40%;10/09/2009 00:00;;1039
+19/11/2014 00:00;versamento pericardico di ndd;;;;;;;1039
+05/02/2013 00:00;Valutazione delle complicanze e del rischio CV.; ;; ; ;;;1171
+11/03/2015 00:00;fibrillazione atriale e CVE.;Maschio;65;No;;29/05/2015 00:00;;1469
+24/11/2011 00:00; ; ;; ; ;;;1522
+29/09/2014 00:00;cardiopalmo e dispnea;;;;;;;1636
+24/11/2010 00:00;Cardiopatia ischemica in follow up;M;59;N; ;;;1991
+08/06/2010 00:00;valutazione diagnostica e delle complicanze in soggetto iperteso ;Maschio;73;No;da 20% a 40%;;;2554
+25/10/2013 00:00;Sospetto evento ischemico cerebrale; ;; ; ;;;2584
+10/11/2014 00:00;Sensazione di oppressione precordiale, dispnea.;;;;;;;2584
+06/12/2010 00:00;Valutazione del rischio Cardiovascolare;M;58;N; ;06/12/2010 00:00;;3457
+26/05/2014 00:00;Vertigini in paziente con blocco SA di II grado; ;; ; ;;;3457
+05/01/2011 00:00;Valutazione delle complicanze e del Rischio cardiovascolare;M;82;N;da 20% a 40%;;;3562
+19/11/2010 00:00; ; ;; ; ;;;4159
+10/01/2011 00:00;Valutazione diagnostica dell` ipertensione arteriosa. Primo inquadramento. valutazione delle complicanze e del rischio cardiovascolare.Cardipatia dilatativa e/o ischemica in follow-up.;M;63;S;da 20% a 40%;16/12/2010 00:00;;4159
+26/04/2010 00:00;valutazione delle complicanze acrdiovascolari;Femmina;60;No;da 5% a 10%;26/04/2010 00:00;;4764
+04/05/2010 00:00;valutazione rischio cardio vascolare in soggetto iperteso ed obeso;Maschio;49;No;<5%;;;4827
+21/04/2010 00:00;valutazione diagnostica e delle complicanze;M;49;N;da 5% a 10%;07/04/2010 00:00;;5079
+17/03/2010 00:00;valutazione diagnostica e delle complicanze cardiovascolari;Femmina;61;No;da 5% a 10%;01/03/2010 00:00;;5107
+25/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;49;S; ;12/05/2009 00:00;;5255
+11/09/2013 00:00;Sospetta ipertensione secondaria.; ;; ; ;;;5404
+26/05/2016 00:00;Aritmia totale da FA con indicazione a CVE;;;;;;;5468
+22/10/2009 00:00;Sospetta ipertensione secondaria;M;61;S;da 10% a 20%;03/11/2009 00:00;;5663
+27/05/2010 00:00;ipertensione resistente al trattamento, sospetta secondaria; ;; ; ;;;5663
+05/01/2011 00:00;Valutazione diagnostica dell`ipetensione arteriosa. Sospetta Ipertensione secondaria.;M;63;S;da 20% a 40%;;;5663
+18/03/2011 00:00;Valutazione diagnostica dell`ipetensione arteriosa. Sospetta Ipertensione secondaria.;M;63;S;da 10% a 20%;06/04/2011 00:00;;5663
+03/07/2012 00:00;IRC precedentemente mascherata dalla ipovolemia conseguente ad adenoma surrenalico.;M;64;S;da 10% a 20%;;;5663
+20/11/2009 00:00;Sospetta ipertensione secondaria* ;M;57;N; ;27/11/2009 00:00;;5777
+16/06/2010 00:00;valutazione rischio e complicanze in soggetto iperteso;Maschio;54;Si;da 10% a 20%;;;5825
+04/02/2015 00:00;dolore toracico, dispnea, anemizzazione, parestesie arti superiori, carcinoma gastrico.;Maschio;62;No;;08/06/2015 00:00;;5946
+17/01/2014 00:00;Cardioversione elettrica di fibrillazione atriale;M;59;Si;da 10% a 20%;;;6278
+10/06/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;74;N; ;;;6333
+22/12/2014 00:00;çEpisodi di confusione mentaleç,afasia,cefalea.;;;;;;;6402
+21/05/2013 00:00;valutazione del rischio e delle complicanze carddovascolari; ;; ; ;;;6526
+23/04/2012 00:00;Sospetta ipertensione secondaria;M;36;S;<5%;;;6768
+16/10/2009 00:00;Sospetta ipertensione secondaria;M;50;N;da 10% a 20%;24/11/2009 00:00;;6817
+15/11/2012 00:00;Prolasso mitralico con indicazione a TEE in sedazione;M;51;N; ;;;7054
+23/12/2014 00:00;cve di FA;;;;;;;7057
+26/11/2009 00:00;Cardiopatia dilatativa in follow-up;M;69;N;da 10% a 20%;10/12/2009 00:00;;7136
+15/11/2011 00:00; ; ;; ; ;;;7336
+26/02/2013 00:00;Pregresso feocromocitoma.; ;; ; ;;;7515
+13/01/2010 00:00;valutazione diagnostica dell`ipertensione arteriosa;Femmina;61;Si;da 10% a 20%;21/12/2009 00:00;;7776
+28/07/2011 00:00;Sospetta ipertensione secondaria;Femmina;28;Ex;<5%;;;7877
+28/09/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;66;S;da 20% a 40%;;;7881
+04/03/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;58;N;da 5% a 10%;04/03/2009 00:00;;8597
+02/05/2014 00:00;Caridiopatia dilatative post-ischemica in follow-up; ;; ; ;;;8659
+23/11/2011 00:00;Valutazione diagnostica dell`ipertensione artriosa e delle complicanze cardiovascolari; ;; ; ;;;8997
+12/03/2014 00:00;cardiopatia ischemica in follow-up;M;72;N;da 20% a 40%;;;9112
+08/03/2012 00:00;valutazione delle complicanze e del rischio cardiovascolare;M;65;N; ;08/03/2012 00:00;;9205
+20/04/2015 00:00;Fibrillazione Atriale e CVE. ;Femmina;66;No;da 10% a 20%;08/06/2015 00:00;;9278
+06/10/2010 00:00;cardiopatia dilatativa e/o ischemica in follow up;F;58;S;da 10% a 20%;21/07/2010 00:00;;9301
+13/10/2014 00:00;sospetta cad e diabete;;;;;;;9301
+17/06/2009 00:00; ;F;81;N;da 5% a 10%;08/07/2009 00:00;;9389
+01/10/2013 00:00;Vasculopatia polidistrettuale.; ;; ; ;;;9422
+06/11/2012 00:00;Valutazione diagnostica dell ipertensione arteriosa. Sospetta ipertensione secondaria.;F;47;N;<5%;;;9453
+19/05/2010 00:00;Valutazione del rischio CV in iperteso e dislipidemico;Maschio;52;Si;da 10% a 20%;;;9503
+05/10/2009 00:00;Cardiopatia ischemica;M;40;S;da 5% a 10%;14/10/2009 00:00;;9673
+28/02/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;65;N;da 10% a 20%;09/03/2011 00:00;;9717
+10/01/2012 00:00;Sospetta ipertensione secondaria;F;65;N; ;25/10/2011 00:00;;10169
+14/06/2010 00:00;cardiopatia ischemica in follow-up;M;73;N;da 20% a 40%;14/06/2010 00:00;;10186
+06/07/2011 00:00;CAD; ;; ; ;;;10566
+06/07/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;62;N;da 5% a 10%;07/10/2009 00:00;;30077
+05/01/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;76;N;da 10% a 20%;;;30163
+08/06/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;70;S; ;;;30418
+14/07/2010 00:00;cardiopatia dilatativa e/o ischemica in Follow up;M;64;S;da 10% a 20%;17/09/2010 00:00;;30434
+19/05/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa .Sospetta ipertensione secondaria.;F;50;S;da 10% a 20%;;;30538
+28/09/2011 00:00;Valutazione dell`ipertensione arteriosa;M;34;N;<5%;;;30604
+11/01/2011 00:00; ;M;53;S;da 10% a 20%;;;30618
+07/12/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;65;S;da 20% a 40%;29/12/2009 00:00;;30671
+02/03/2015 00:00;dolore toracico atipico, dispnea, vertigini di ndd, CAD.;Maschio;69;No;;29/05/2015 00:00;;30671
+11/10/2010 00:00;Valutazione delle complicanze  e del rischio cardiovascolare;M;63;N;da 10% a 20%;01/10/2010 00:00;;30762
+26/03/2012 00:00;Sospetta ipertensione secondaria;M;47;S; ;26/03/2012 00:00;;30768
+23/02/2012 00:00;Valtuazione delle complicanze e del rischio cardiovascolare;M;47;S; ;23/02/2012 00:00;;30768
+10/06/2009 00:00;Cardiopatia ischemica in follow-up;M;64;S;da 20% a 40%;30/07/2009 00:00;;30857
+06/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento;F;84;S;da 10% a 20%;06/04/2009 00:00;;30902
+08/09/2011 00:00;Sospetta Ipertensione secondaria;M;67;N;da 10% a 20%;05/12/2011 00:00;;30947
+24/10/2013 00:00;Cardiopatia ischemica in follow-up; ;; ; ;;;31170
+17/03/2016 00:00;;;;;;;;31170
+08/06/2009 00:00;Cardiopatia dilatativa;M;74;S;da 20% a 40%;03/07/2009 00:00;;31295
+17/12/2014 00:00;Dolore toracioc atipico, dispnea, palpitazioni;;;;;;;31300
+21/05/2009 00:00;Blocco seno-atriale di tipo I e II Mobits;F;52;N;da 5% a 10%;;;31506
+05/01/2011 00:00;Valutazione delle complicanze e del rischio Cardiovascolare;F;71;S;<5%;;;31554
+27/10/2009 00:00;Cardiopatia ischemica in follow up;M;73;N;da 20% a 40%;30/10/2009 00:00;;31568
+10/11/2010 00:00;cardiopatia ischemica;Maschio;74;No; ;26/10/2010 00:00;;31568
+14/05/2009 00:00;Neoplasia;F;42;S;<5%;05/06/2009 00:00;;31637
+16/01/2012 00:00;Valutazione diagnoistica dell`ipertensione arteriosa. Sospetta ipertensione secondaria. Valutazione delle complicanze e del rischio cardiovascolare;M;57;N; ;14/12/2011 00:00;;31676
+30/06/2010 00:00;Episodio di FA parossistica;M;59;S;da 10% a 20%;23/06/2010 00:00;;31757
+27/07/2011 00:00;CAD in follow up; ;; ; ;;;31868
+03/05/2010 00:00;follow up cardiopatia ischemica;Maschio;59;No;da 5% a 10%;;;32003
+16/02/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;42;N;da 5% a 10%;24/02/2009 00:00;;32019
+14/10/2010 00:00;neoformazione renale ds da valutare in pz con pregresso IMA infero-postero-laterale;M;43;N;da 5% a 10%;12/07/2010 00:00;;32019
+25/06/2015 00:00;Dolore toracico atipico, dispnea per sforzi fisici di media entità.;;;;;;;32057
+23/10/2009 00:00;Cardiopatia ischemica;M;66;S;da 10% a 20%;02/11/2009 00:00;;32072
+05/01/2011 00:00;Cardiopatia Dilatativa e/o ischemica in Follow-up;M;68;S;da 20% a 40%;;;32072
+11/02/2013 00:00;Cardiopatia ischemica in follow-up.; ;; ; ;;;32072
+29/12/2016 00:00;;Maschio;73;No;da 20% a 40%;23/12/2016 00:00;;32072
+30/09/2014 00:00;CAD in follow-up;;;;;;;32123
+24/11/2009 00:00;Cardiopatia ischemica in follow-up;M;65;S;da 10% a 20%;29/12/2009 00:00;;32210
+09/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;49;S; ;07/04/2009 00:00;;32448
+01/12/2016 00:00;Recente riscontro di elevati valori di creatinemia in soggetto affetto da cariopatia ipertensiva;Femmina;55;Si;da 5% a 10%;11/11/2016 00:00;;32448
+09/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa; ;; ; ;10/04/2009 00:00;;32450
+21/04/2009 00:00;Cardiopatia dilatativa in follow-up;M;64;N;da 10% a 20%;18/06/2009 00:00;;32533
+02/05/2013 00:00;Cardiopatia ischemica in follow-up.;M;68;N; ;;;32533
+04/05/2010 00:00;cardiopatia ipertensiva;Maschio;60;No;da 5% a 10%;15/06/2010 00:00;;32549
+16/09/2009 00:00;Cardiopatia ischemica in follow-up;M;68;S; ;09/11/2009 00:00;;32596
+25/07/2013 00:00;Precordialgie in pz affetto da cardiopatia ischemica cronica.; ;; ; ;;;32596
+08/10/2013 00:00;Cardiopatia ischemica in follow-up; ;; ; ;;;32645
+25/05/2015 00:00;Scarso controllo della pressione arteriosa.;;;;;;;32775
+10/01/2012 00:00;Cardiopatia ischemica in follow-up;M;68;S; ;19/12/2011 00:00;;32813
+01/10/2012 00:00;Dispnea in soggetto con cardiopatia ischemica e sostituzione valvolare aortica.;M;68;S; ;;;32813
+03/06/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;54;S;da 10% a 20%;;;32832
+10/06/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;55;S;da 5% a 10%;10/06/2009 00:00;;32839
+13/07/2010 00:00;cadiopatia dilatativa in follow up;Maschio;68;No;da 10% a 20%;09/07/2010 00:00;;32887
+21/10/2009 00:00;Cardiopatia ischemica  in follow-up;M;70;N;da 10% a 20%;21/10/2009 00:00;;32949
+25/07/2011 00:00;CAD in follow-up; ;; ; ;;;32949
+29/04/2013 00:00;Cardiopatia ischemica in follow-up;M;74;N;da 20% a 40%;;;32949
+20/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;42;S;da 5% a 10%;29/05/2009 00:00;;32997
+29/03/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;44;S; ;;;32997
+05/04/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;44;S; ;;;32997
+12/10/2010 00:00;cardiopatia dilatativa e/o ischemica in follow-up;M;61;N;da 10% a 20%;20/09/2010 00:00;;33117
+30/06/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;21;N; ;08/07/2009 00:00;;33331
+27/04/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;42;N; ;15/05/2009 00:00;;33337
+10/11/2011 00:00;CAD; ;; ; ;;;33608
+19/03/2015 00:00;Dolore toracico, dispnea, CAD, IRC III stadio;Maschio;;No;;31/03/2015 00:00;;33608
+13/11/2012 00:00;Pz iperteso con pregressa TV cardiovertita e sottoposto ad ablazione mediante RF.; ;; ; ;;;33737
+13/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;54;S;da 10% a 20%;19/06/2009 00:00;;33740
+27/09/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;72;N;da 20% a 40%;;;33758
+29/06/2012 00:00;Bbsx di recente insoregenza;M;59;N; ;23/05/2012 00:00;;33762
+27/06/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria.;F;62;N; ;;;33769
+10/06/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;39;S; ;;;33808
+27/11/2014 00:00;dispnea per sforzi di media entità e dolore a riposo agli arti inferiori;;;;;;;33910
+29/01/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;63;N; ;;;34124
+03/05/2016 00:00;palpitazioni e costrizione toracica in pz con CAD ed affetta da DM in insulino terapia.;;;;;;;34124
+13/01/2010 00:00;cardiopatia dilatativa in follow up;Femmina;65;No;da 5% a 10%;25/11/2009 00:00;;34256
+25/11/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;67;S; ;;;34256
+29/10/2010 00:00;valutazione delle complicanze del rischio cardiovascolare;M;62;S;da 20% a 40%;19/10/2010 00:00;;34299
+13/01/2010 00:00;valutazione delle complicanze e del rischio cardiovascolare ;Femmina;45;No;<5%;18/12/2009 00:00;;34356
+26/10/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare.* Sospetto ittero ostruttivo;M;74;S; ;26/10/2009 00:00;;34424
+12/11/2013 00:00;cardioversione elettrica di fibrillazione atriale; ;; ; ;;;34501
+12/03/2014 00:00;cardioversione elettrica di FA;M;70;N;da 20% a 40%;;;34501
+29/05/2009 00:00;Valutazione diagnostica per cefalea;F;63;S;da 10% a 20%;15/06/2009 00:00;;34765
+28/01/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;65;S;da 20% a 40%;28/01/2009 00:00;;34779
+16/09/2010 00:00;Valutazione ipertensione, sospetta secondaria;F;45;N;da 5% a 10%;18/10/2010 00:00;;34855
+20/07/2010 00:00;FA di recente insorgenza;M;55;N; ;29/07/2010 00:00;;35066
+10/06/2013 00:00;Sospetta ipertensione secondaria.;M;47;N;<5%;;;35080
+23/06/2009 00:00;Cardiopatia ischemica in follow-up;M;42;N;<5%;14/07/2009 00:00;;35277
+09/04/2014 00:00;CARDIOPATIA ISCHEMICA IN FOLLOW-UP; ;; ; ;;;35277
+09/02/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;59;N;da 10% a 20%;20/03/2009 00:00;;35648
+26/05/2010 00:00;Valutazione del rischio Cardiovascolare;M;49;S; ;29/10/2010 00:00;;35659
+02/02/2010 00:00;Sospetta ipertensione secondaria;F;25;N;<5%;12/04/2010 00:00;;35758
+31/01/2013 00:00;Sospetta ipert, secondaria;F;28;N; ;;;35758
+13/01/2010 00:00;follow up neoplasia intestinale;Femmina;60;No;da 5% a 10%;22/09/2009 00:00;;35761
+13/03/2017 00:00;Ipertensione arteriosa grado I stadio II ricoverata in regime di follow-up;;;;;02/05/2017 00:00;;35761
+05/05/2010 00:00;follow-up di ca intestinale ion soggetto con cardiopatia ipertensiva;Femmina;60;No;da 5% a 10%;;;35761
+05/01/2011 00:00;Follow-up Ca. della giunzione retto-sigmoidea;F;62;S;da 10% a 20%;;;35761
+21/08/2007 00:00; ; ;; ; ;;;35761
+07/03/2011 00:00;Follow-up Ca. della giunzione retto-sigmoidea;F;62;S;da 10% a 20%;15/03/2011 00:00;;35761
+13/12/2011 00:00;follow up ca retto;F;62;S;da 10% a 20%;;;35761
+27/02/2013 00:00;Valutazione del rischio cardiovascolare; ;; ; ;;;35761
+13/04/2015 00:00;Dolore toracico in follow up in soggetto iperteso.;;;;;;;35761
+07/04/2016 00:00;;;;;;;;35761
+15/09/2009 00:00;Cardiopatia ischemica in follw-up;M;60;S;da 10% a 20%;17/11/2009 00:00;;35774
+24/09/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare in pz affetto da vasculopatia aterosclerotica polidistrettuale.;Maschio;63;No;da 10% a 20%;07/11/2012 00:00;;35774
+10/01/2012 00:00;Cardiopatia ischemica in follow-up;M;62;N; ;22/12/2011 00:00;;35855
+27/11/2009 00:00;Aritmia extrasistolica in pz con prolasso della mitrale.;F;60;N;da 5% a 10%;27/11/2009 00:00;;35938
+05/05/2010 00:00;follow up prolasso della mitrale;Femmina;60;No;da 5% a 10%;;;35938
+05/01/2011 00:00;episodio sincopale;F;62;N;da 5% a 10%;;;35938
+29/10/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;56;N; ;24/11/2009 00:00;;35980
+19/01/2010 00:00;Valutazione del rischio e delle complicanze CV;F;64;N;da 10% a 20%;12/04/2010 00:00;;36060
+12/11/2009 00:00;Cardiopatia ischemica in follow-up;F;73;N;da 20% a 40%;01/12/2009 00:00;;36319
+05/01/2011 00:00;Cardiopatia Dilatativa e/o ischemica in follow-Up;F;75;N;da 10% a 20%;;;36319
+06/06/2012 00:00;Cardiopatia dilatativa e/o ischemica in Follow-up;F;76;N;da 20% a 40%;28/06/2012 00:00;;36319
+19/01/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;68;N;da 10% a 20%;;;36387
+23/02/2015 00:00;sospetta ipertensione secondaria, stenosi arteria renale trattata con PTCA:;Maschio;27;Si;<5%;23/04/2015 00:00;;36677
+03/04/2008 00:00;Artrite di natura da determinare;F;22;S; ;11/03/2008 00:00;;36697
+26/02/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento.;M;43;N; ;;;36698
+14/05/2014 00:00;Sospetta ipertensione secondaria; ;; ; ;;;36804
+30/09/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;46;N;da 5% a 10%;19/10/2009 00:00;;36809
+04/10/2011 00:00;Cardiopatia ischemica e/o dilatativa in follow-up;M;68;N;da 20% a 40%;;;36954
+16/06/2010 00:00;cardiopatia ipertensiva;M;52;N;da 10% a 20%;;;36992
+05/01/2011 00:00;Cardiopatia dilatativa e/o ischemica in Follow-up;M;73;S;da 20% a 40%;;;37120
+20/02/2012 00:00;Cardiopatia ischemica in follow-up;M;74;S; ;17/04/2012 00:00;;37120
+22/04/2013 00:00;Cardiopatia ischemica in follow-up; ;; ; ;;;37120
+13/12/2012 00:00;Dispnea per sforzi lievi;M;55;S;da 5% a 10%;;;37197
+04/09/2013 00:00;CVE di FA; ;; ; ;;;37330
+16/11/2010 00:00;Valutazione del rischio Cardiovascolare;M;68;N; ;30/11/2010 00:00;;37343
+21/01/2010 00:00;Valutazione complicane e rischio CV; ;; ; ;11/02/2010 00:00;;37392
+22/09/2009 00:00;Lombosciatalgia acuta di ndd;F;61;N;da 5% a 10%;22/09/2009 00:00;;37411
+30/03/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento* Valutazione delle complicanze e del rischio cardiovascolare. Alterata glicemia a digiuno.;M;70;S;da 20% a 40%;19/04/2011 00:00;;37506
+22/03/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento* Valutazione delle complicanze e del rischio cardiovascolare. Ipercolesterolemia;F;64;N;da 10% a 20%;05/04/2011 00:00;;37530
+19/10/2010 00:00;Valutazione del rischio Cardiovascolare;M;71;S; ;02/12/2010 00:00;;37600
+27/11/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;73;S;da 20% a 40%;;;37600
+28/09/2011 00:00;Valutazione diagnostica dell` Ipertensione arteriosa;F;51;N;da 5% a 10%;;;37629
+12/03/2009 00:00;Cardiopatia dilatativa e/o ischemica;F;44;N; ;24/04/2009 00:00;;37768
+21/07/2014 00:00;cardioversione elettrica di fa; ;; ; ;;;37770
+04/12/2012 00:00;in soggetto con cardiopatia ischemica cronica e BPCO;M;69;S; ;;;37799
+13/01/2010 00:00;sospetta emocromatosi;Maschio;43;No;da 5% a 10%;15/12/2009 00:00;;37942
+02/11/2009 00:00;Cardiopatia ischemica in follow-up;M;56;S; ;02/11/2009 00:00;;38015
+13/06/2013 00:00;Cardiopatia ischemica in follow-up; ;; ; ;;;38030
+07/10/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;49;S;da 5% a 10%;25/10/2010 00:00;;38032
+14/01/2013 00:00;Dispnea da sforzo.;M;52;S;da 20% a 40%;;;38032
+22/01/2009 00:00;Valutazione diagnostica dell`Ipertensione Arteriosa.; ;; ; ;;;38349
+17/05/2012 00:00;sospetta ipertensione secondaria;M;41;S; ;16/03/2012 00:00;;38374
+18/06/2009 00:00;Sospetta ipertensione secondaria; ;; ; ;;;38529
+15/04/2010 00:00;Ipertensione resistente al trattamento. Sospetta secondaria.;F;51;N; ;;;38529
+23/02/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento;M;56;N;da 5% a 10%;04/03/2009 00:00;;38571
+23/04/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;71;N; ;23/04/2009 00:00;;38575
+05/07/2011 00:00;CAD in follow up; ;; ; ;;;38662
+20/08/2012 00:00;Palpitazioni in pz con dolore addominale;F;60;S;da 10% a 20%;;;38856
+08/01/2009 00:00;Valutazione diagnostica delle complicanze e del rischio cardiovascolare.* Recente ictus emorragico;M;46;N;<5%;25/03/2009 00:00;;38914
+01/10/2009 00:00;Cardiopatia ischemica;M;71;S;da 20% a 40%;01/10/2009 00:00;;38921
+28/04/2009 00:00; ;M;54;N; ;21/01/2009 00:00;;38939
+14/01/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;71;S; ;30/01/2009 00:00;;38960
+15/01/2009 00:00;Valutazione  delle complicanze e del rischio cardiovascolare* ;M;38;N; ;20/04/2009 00:00;;38974
+19/01/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;50;N; ;06/04/2009 00:00;;38987
+28/04/2009 00:00; ;M;53;S; ;04/02/2009 00:00;;39018
+28/04/2009 00:00; ;F;44;N; ;03/02/2009 00:00;;39036
+23/01/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;46;N;da 5% a 10%;06/02/2009 00:00;;39058
+07/10/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;47;N;da 5% a 10%;19/11/2010 00:00;;39058
+12/06/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare.;M;49;N;<5%;;;39058
+09/06/2011 00:00;Cardiopatia ischemica in follow-up;M;48;S;da 5% a 10%;13/07/2011 00:00;;39081
+21/10/2010 00:00;Sospetta secondaria;F;41;N;<5%;27/10/2010 00:00;;39082
+21/05/2009 00:00;Scarso controllo dei valori pressori; ;; ; ;;;39120
+02/02/2009 00:00;Sospetta ipertensione secondaria;M;53;N; ;17/04/2009 00:00;;39120
+28/04/2009 00:00; ;M;62;N;da 10% a 20%;18/02/2009 00:00;;39152
+05/02/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa.;M;62;N;da 10% a 20%;08/05/2009 00:00;;39153
+04/05/2012 00:00;Cardioversione Flutter atriale ;M;58;S; ;;;39166
+11/02/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;57;N;da 5% a 10%;16/03/2009 00:00;;39205
+12/02/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;43;S;<5%;17/02/2009 00:00;;39219
+03/03/2009 00:00;Cardiopatia dilatativa e/o ischemica, diabete mellito, ulcera gastrica sanguinante;M;53;S; ;13/05/2009 00:00;;39280
+09/02/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento;M;40;N;da 5% a 10%;03/03/2009 00:00;;39292
+24/02/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;48;S;<5%;13/05/2009 00:00;;39328
+30/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa.;M;80;N; ;07/05/2009 00:00;;39330
+19/03/2009 00:00;Neoformazione valvola polmonare;F;67;S;da 10% a 20%;01/07/2009 00:00;;39343
+10/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;21;N; ;10/03/2009 00:00;;39367
+18/01/2010 00:00;sospetta sindrome mieloproliferativa;Maschio;49;No; ;25/05/2009 00:00;;39375
+04/03/2009 00:00;Cardiopatia dilatativa e/o ischemica in follow-up;F;58;N;da 5% a 10%;06/04/2009 00:00;;39403
+14/09/2011 00:00;Cardiopatia ischemica cronica in follow up; ;; ; ;;;39403
+10/01/2012 00:00;Valutazione dell`iperetsnone arteriosa. Sospetto ipertensione secondaria;F;52;N; ;26/07/2011 00:00;;39411
+15/02/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa/ Vertigini;M;42;S;da 10% a 20%;27/04/2009 00:00;;39467
+13/03/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare, Diabete Mellito, IPB;M;62;N; ;13/11/2009 00:00;;39498
+28/07/2011 00:00;Valutazione delle complicanze e del rischio CV;M;64;N; ;;;39498
+16/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa.;F;60;N;da 10% a 20%;22/04/2009 00:00;;39507
+19/04/2010 00:00;valutazione complicanze e rischio cardiovascolare;Femmina;60;No;da 10% a 20%;09/04/2010 00:00;;39507
+16/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa; ;; ; ;;;39508
+22/04/2009 00:00;Sospetta ipertensione secondaria;M;45;N;<5%;20/05/2009 00:00;;39515
+17/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;57;S;da 10% a 20%;13/05/2009 00:00;;39521
+18/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa; ;; ; ;22/04/2009 00:00;;39539
+19/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa.;F;58;N;da 5% a 10%;27/03/2009 00:00;;39554
+13/01/2010 00:00;valutazione diagnostica dell`ipertensione arteriosa;M;66;N;da 10% a 20%;27/04/2009 00:00;;39574
+13/11/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare. OSAS; ;; ; ;;;39576
+24/03/2009 00:00;Dispnea in ipertesa;F;50;S;da 10% a 20%;22/06/2009 00:00;;39587
+26/03/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;33;N;<5%;19/06/2009 00:00;;39615
+27/03/2009 00:00;Cardiopatia dilatativa e/o ischemica;F;57;N;da 5% a 10%;30/06/2009 00:00;;39627
+29/03/2011 00:00;Follow-up cardiopatia dilatativa;F;59;N;da 5% a 10%;02/03/2011 00:00;;39627
+29/03/2011 00:00;Valutazione diagnostica del rischio Cardiovascolare in soggetto iperteso;M;54;N;da 10% a 20%;02/03/2011 00:00;;39642
+28/02/2012 00:00; ; ;; ; ;23/11/2012 00:00;;39670
+02/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;58;N;da 10% a 20%;;;39676
+03/04/2009 00:00;Cardiopatia ischemica in follow-up;F;43;N;<5%;10/06/2009 00:00;;39695
+13/01/2010 00:00;valutazione diagnostica dell`ipertensione arteriosa;M;43;N;da 5% a 10%;19/06/2009 00:00;;39696
+04/06/2009 00:00;FA PAROSSISTICA;F;61;N; ;;;39708
+16/07/2010 00:00;Valutazione diagnostica Ipertensione arteriosa;M;59;N; ;14/09/2010 00:00;;39711
+06/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento;M;44;S;da 10% a 20%;24/04/2009 00:00;;39714
+07/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;67;N; ;27/05/2009 00:00;;39728
+23/12/2014 00:00;Sospetta ipertensione secondaria;;;;;;;39737
+08/04/2009 00:00;valutazione diagnostica dell`ipertensione arteriosa;M;49;N;da 5% a 10%;22/05/2009 00:00;;39740
+09/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;40;N; ;03/06/2009 00:00;;39755
+05/05/2009 00:00;Sindrome di Raynaud, nodulo tiroideo ndd;F;58;N;da 5% a 10%;12/06/2009 00:00;;39756
+01/04/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;56;N; ;25/05/2009 00:00;;39762
+15/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;42;N;da 5% a 10%;29/05/2009 00:00;;39786
+20/05/2009 00:00;Cardiopatia ischemica in follow up;M;60;N;da 10% a 20%;25/06/2009 00:00;;39795
+08/10/2009 00:00;CAD/Distrofia muscolare;F;60;S;da 10% a 20%;05/11/2009 00:00;;39848
+23/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;42;N;<5%;09/06/2009 00:00;;39858
+29/12/2016 00:00;;Maschio;68;No;da 10% a 20%;30/11/2016 00:00;;39861
+28/04/2009 00:00;valutazione diagnostica dell`ipertensione arteriosa;M;76;N; ;27/05/2009 00:00;;39894
+29/04/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;56;N;da 5% a 10%;16/06/2009 00:00;;39905
+27/05/2009 00:00;Sospetta secondaria* ;F;52;N;da 5% a 10%;29/09/2009 00:00;;39907
+22/06/2009 00:00;Sospetta ipertensione secondaria;M;33;S;da 5% a 10%;;;39909
+04/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento.;M;48;N;<5%;29/07/2009 00:00;;39929
+04/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;50;N;da 10% a 20%;05/06/2009 00:00;;39930
+06/05/2009 00:00;Cardiopatia ischemica;M;60;N; ;26/05/2009 00:00;;39957
+06/05/2009 00:00;Ipertensione giovanile;M;19;N;<5%;15/06/2009 00:00;;39958
+08/05/2009 00:00;Dispnea in portatore di valvola bicuspide. Pregresso intervento per aneurisma aorta ascendente. Distiroidismo;M;53;N; ;04/11/2009 00:00;;39987
+11/05/2009 00:00;Valutazione diagnostica dell` ipertensione arteriosa;F;42;N;<5%;10/06/2009 00:00;;39997
+12/05/2009 00:00;Cardiopatia ischemica* ;M;53;S; ;17/06/2009 00:00;;40007
+17/06/2014 00:00;valutazione del rischio cardiovascolare; ;; ; ;;;40011
+13/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;61;N;da 5% a 10%;;;40035
+26/10/2009 00:00;Sospetta ipertensione secondaria; ;; ; ;;;40045
+18/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;60;N;da 10% a 20%;27/07/2009 00:00;;40051
+18/05/2009 00:00;Sospetta ipertensione secondaria;M;40;S; ;30/07/2009 00:00;;40052
+19/05/2009 00:00;valutazione diagnostica dell`ipertensione arteriosa;M;64;N;da 10% a 20%;10/09/2009 00:00;;40065
+16/10/2009 00:00;Valutazione dell`ipertensione arteriosa. Pregresso TIA, IRC.;M;70;N; ;30/09/2009 00:00;;40079
+22/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa: primo inquadramento;F;63;N;da 5% a 10%;01/10/2009 00:00;;40104
+25/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;49;S; ;08/07/2009 00:00;;40116
+15/10/2013 00:00;Precordialgie in soggetto affetto da cardiopatia ischemica cronica,;M;53;S; ;;;40116
+26/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;65;N;da 20% a 40%;26/06/2009 00:00;;40126
+19/01/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;75;S; ;19/01/2012 00:00;;40137
+27/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa.;M;38;S;da 5% a 10%;16/06/2009 00:00;;40141
+29/05/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;53;N;da 10% a 20%;22/06/2009 00:00;;40165
+04/06/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;53;N;da 5% a 10%;29/06/2009 00:00;;40196
+05/06/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;28;S;<5%;08/10/2009 00:00;;40209
+09/06/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;56;N; ;15/09/2009 00:00;;40230
+15/06/2009 00:00;Sospetta ipertensione secondaria;F;26;N;<5%;30/09/2009 00:00;;40269
+16/06/2009 00:00;Sindrome metabolica;M;37;N; ;07/07/2009 00:00;;40281
+19/06/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;22;N;<5%;22/06/2009 00:00;;40321
+24/06/2009 00:00;valutazione diagnostica dell`ipertensione arteriosa;M;49;N;da 5% a 10%;01/10/2009 00:00;;40355
+25/06/2009 00:00;Tumefazione linfonodale ndd;F;31;N;<5%;06/07/2009 00:00;;40363
+26/06/2009 00:00;Pregresso trauma cerebrale* ;M;26;S;<5%;14/07/2009 00:00;;40380
+01/07/2009 00:00;Pregresso IMA;M;51;N;da 5% a 10%;16/07/2009 00:00;;40414
+07/07/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;42;S;da 10% a 20%;21/07/2009 00:00;;40448
+10/07/2009 00:00;Cardiopatia ischemica in follow-up, Ictus cerebri; ;; ; ;;;40463
+05/01/2011 00:00;Sospetta infezione virale;F;34;S;<5%;;;40485
+13/07/2009 00:00;Valutazione diagnostica dell` ipertensione arteriosa;M;65;N;da 10% a 20%;16/09/2009 00:00;;40492
+28/07/2009 00:00;Episodio sincopale;M;22;N;<5%;;;40595
+15/10/2009 00:00;Cardiopatia ischemica in follow-up;M;41;S;da 5% a 10%;24/11/2009 00:00;;40601
+28/07/2011 00:00;Vardiopatia ischemica e/o dilatativa in Follow up;Maschio;43;Ex;da 10% a 20%;;;40601
+31/07/2013 00:00;Angina in cardiopatia ischemica cronica;M;45;S;da 5% a 10%;20/06/2013 00:00;;40601
+02/09/2009 00:00;Ipertensione resistente in trattamento, diabete mellito IRC;M;35;S;da 5% a 10%;18/09/2009 00:00;;40704
+02/09/2009 00:00;Aritmia extrasistolica;F;73;N;da 10% a 20%;25/09/2009 00:00;;40709
+04/09/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare.;M;57;S;da 10% a 20%;04/09/2009 00:00;;40724
+09/09/2011 00:00;Valutazione del rischio cardio vascolare;Maschio;59;S;da 10% a 20%;12/10/2011 00:00;;40724
+07/09/2009 00:00;valutazione diagnostica dell`ipertensione arteriosa;F;64;N;da 5% a 10%;30/09/2009 00:00;;40730
+08/09/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;52;N; ;09/12/2009 00:00;;40746
+09/09/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;57;S; ;25/09/2009 00:00;;40752
+11/09/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;47;N;da 5% a 10%;11/09/2009 00:00;;40771
+17/12/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;39;N;<5%;09/12/2009 00:00;;40785
+17/09/2009 00:00;Extrasistolia in pz con distiroidismo;F;62;N;da 10% a 20%;26/11/2009 00:00;;40810
+19/11/2009 00:00;Cardiopatia dilatativa in follow-up;F;58;S;da 5% a 10%;18/12/2009 00:00;;40835
+22/09/2009 00:00;valutazione diagnostica dell`ipertensione arteriosa;F;47;S;<5%;09/10/2009 00:00;;40851
+23/09/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;52;S;da 10% a 20%;30/09/2009 00:00;;40865
+28/07/2011 00:00;Valutazione delle complicanze e del rischio CV;Maschio;54;Si;da 10% a 20%;;;40865
+24/09/2009 00:00;Sospetta ipertensione secondaria;M;37;S;da 5% a 10%;20/11/2009 00:00;;40874
+24/09/2009 00:00;Pericardite di ndd;M;30;S; ;07/10/2009 00:00;;40875
+14/12/2012 00:00;Cardiopatia ischemica/dilatativa in follow-up; ;; ; ;14/12/2012 00:00;;40884
+28/09/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;50;N;da 5% a 10%;21/10/2009 00:00;;40894
+31/03/2015 00:00;dolore toracico in paziente con anamnesi posiitva per carcinoma della mammella, dispnea.;Femmina;;No;;31/03/2015 00:00;;40903
+29/09/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;52;S;da 5% a 10%;21/12/2009 00:00;;40906
+13/04/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;53;S;da 10% a 20%;09/11/2010 00:00;;40906
+06/10/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;79;S; ;03/12/2009 00:00;;40947
+07/10/2009 00:00;Valutazione delle complicanze e del rischio  cardiovascolare;F;47;S;da 10% a 20%;16/10/2009 00:00;;40955
+09/10/2009 00:00;Cardiopatia ischemica in follow-up.;M;68;N;da 10% a 20%;05/11/2009 00:00;;40980
+12/10/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;53;N;da 10% a 20%;14/10/2009 00:00;;40989
+05/11/2009 00:00;Sospetta ipertensione secondaria;M;18;N; ;15/12/2009 00:00;;40995
+13/10/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;66;N;da 20% a 40%;21/10/2009 00:00;;41002
+18/11/2009 00:00;Cardiopatia dilatativa;M;54;N;da 5% a 10%;19/11/2009 00:00;;41014
+13/01/2010 00:00;valutazione diagnostica dell`ipertensione arteriosa;Maschio;67;Si;da 20% a 40%;16/12/2009 00:00;;41019
+15/10/2009 00:00;Cardiopatia ischemica in follow-up;F;72;N;da 20% a 40%;09/12/2009 00:00;;41032
+04/07/2013 00:00;cardioversione elettrica di fibrillaizone atriale in paziente con caridopatia ischemica cronica; ;; ; ;;;41032
+19/10/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;40;N;da 5% a 10%;17/11/2009 00:00;;41056
+28/10/2009 00:00;Cardiopatia ipertensiva;M;60;N;da 10% a 20%;04/12/2009 00:00;;41146
+22/01/2015 00:00;sospetta ipertensione secondaria.;Femmina;45;No;;18/03/2015 00:00;;41161
+05/05/2010 00:00;recente insulto ischemico cerebrale in soggetto con fa parossitsica ;Femmina;62;No;da 5% a 10%;;;41183
+21/03/2012 00:00;Sospetta ipertensione secondaria; ;; ; ;;;41185
+03/11/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa.;F;42;N;<5%;25/11/2009 00:00;;41190
+02/12/2009 00:00;Cardiopatia dilatativa post-ischemica follow-up;M;52;S;da 10% a 20%;02/12/2009 00:00;;41197
+04/11/2009 00:00;Cardiopatia ischemica in follow-up;M;70;S;da 20% a 40%;09/11/2009 00:00;;41202
+06/11/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;35;N;<5%;11/12/2009 00:00;;41224
+13/01/2010 00:00;valutazione diagnostica dell`ipertensione arteriosa;Maschio;49;Si;da 10% a 20%;;;41238
+10/11/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;71;N;da 10% a 20%;16/12/2009 00:00;;41249
+11/11/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;61;S;da 20% a 40%;20/11/2009 00:00;;41261
+13/11/2009 00:00;Sospetta secondaria;F;50;S;da 10% a 20%;13/11/2009 00:00;;41282
+13/01/2010 00:00;valutazione diagnostica dell`ipertensione arteriosa 1 inquadramento;Femmina;51;No;da 5% a 10%;;;41291
+17/11/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;32;N;<5%;10/12/2009 00:00;;41311
+02/02/2010 00:00;completamento delle indagini strumentali in soggetto con evidenza di rene dx ipotrofico;Maschio;32;No;<5%;26/01/2010 00:00;;41311
+07/12/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;48;S;<5%;07/12/2009 00:00;;41334
+13/01/2010 00:00;valutazione delle complicanze e del rischio;M;56;N;da 10% a 20%;;;41359
+18/02/2010 00:00;Valutazione diagnostica delle complicanze e del rischio cardiovascolare;M;64;S;da 10% a 20%;19/07/2010 00:00;;41363
+26/11/2009 00:00;Ipertensione resistente al trattamento;M;50;S;da 20% a 40%;04/12/2009 00:00;;41397
+30/11/2009 00:00;Valutazione diagnostica dell`ipertensione arteriosa;F;32;S;<5%;04/12/2009 00:00;;41421
+13/12/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;70;S;da 10% a 20%;13/12/2010 00:00;;41430
+10/11/2010 00:00;Episodio sincopale;Maschio;43;No; ;19/10/2010 00:00;;41435
+13/01/2010 00:00;ipertensione arteriosa resistente al trattamento;Femmina;57;Si;da 10% a 20%;15/12/2009 00:00;;41442
+04/12/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;51;N;da 10% a 20%;11/12/2009 00:00;;41485
+07/12/2009 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;49;S;da 5% a 10%;07/12/2009 00:00;;41497
+13/01/2010 00:00;valutazione delle complicanze e del rischio cardiovascolare;Maschio;63;No; ;;;41529
+13/01/2010 00:00;valutazione complicanze e rischio cardiovascolare;M;55;S;da 20% a 40%;15/12/2009 00:00;;41538
+26/01/2010 00:00;Valutazione delle complicanze e del richio cardiovascolare;M;67;N;da 10% a 20%;22/07/2010 00:00;;41592
+16/04/2010 00:00;sospetta ipertensione secondaria;M;31;N; ;07/05/2010 00:00;;41594
+22/10/2014 00:00;EMOFTOE E SOSPETTA EMBOLIA POLMONARE;;;;;;;41599
+28/01/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa, sospetta secondaria;F;50;N;da 10% a 20%;06/05/2010 00:00;;41684
+08/02/2010 00:00;Dolore precordiale associato a dispnea;Maschio;48;No; ;08/01/2010 00:00;;41695
+12/02/2010 00:00;Valutazione del rischio cardiovascolare;Maschio;51;No;da 5% a 10%;03/02/2010 00:00;;41724
+08/02/2010 00:00;IPERTENSIONE ARTERIOSA E VALUTAZIONE DEL RISCHIO C.V.;Femmina;49;No; ;03/02/2010 00:00;;41815
+29/03/2010 00:00;valutazione del rischio cardiovascolare in soggetto iperteso;Maschio;40;No;da 5% a 10%;12/02/2010 00:00;;41839
+07/04/2010 00:00;valutazione diagnostica e delle complicanze in soggetto affetto da ipertensione arteriosa;Maschio;43;No;da 5% a 10%;29/03/2010 00:00;;41846
+16/02/2010 00:00;Sospetta ipertensione secondaria;M;35;S;da 5% a 10%;27/07/2010 00:00;;41861
+25/02/2010 00:00;Sospetta ipertensione secondaria* ;F;60;N;da 20% a 40%;27/04/2010 00:00;;41878
+29/03/2010 00:00;valutazione del rischio cardiovascolare;M;50;S;da 10% a 20%;10/03/2010 00:00;;41939
+29/03/2010 00:00;valutazione del rischio cardiovascolare;M;30;N;<5%;12/03/2010 00:00;;41952
+17/03/2010 00:00;valutazione complicanze e rischio CV in iperteso;Maschio;79;No; ;05/03/2010 00:00;;41966
+17/03/2010 00:00;stadiazione ca prostatico;Maschio;74;No;da 10% a 20%;;;42001
+22/04/2010 00:00;Sospetta secondaria;M;36;S;da 5% a 10%;18/05/2010 00:00;;42028
+03/05/2010 00:00;valutazione complicanze in soggetto iperteso;Maschio;73;No;da 20% a 40%;;;42051
+12/04/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;33;S;<5%;23/09/2010 00:00;;42080
+16/06/2010 00:00;Valutazione complicanze e rischi CV in ipertesa;Femmina;47;Si;da 5% a 10%;;;42082
+18/03/2010 00:00;Ipertensione resistente in trattamento;F;62;N; ;;;42099
+24/11/2014 00:00;episodi di cardiopalmo aritmico e toracoalgia;;;;;;;42122
+13/04/2010 00:00;sospetto ipertiroidismo;Maschio;51;No;da 5% a 10%;08/04/2010 00:00;;42123
+03/05/2010 00:00;cardiopatia ischemica. aterosclerosi carotidea;Maschio;56;No; ;;;42126
+20/04/2010 00:00;valutazione delle complicanze e del rischio vc;Maschio;56;No;da 10% a 20%;30/03/2010 00:00;;42137
+04/05/2010 00:00;valutazione diagnostica dell` ipertensione arteriosa;Maschio;44;Si;da 10% a 20%;;;42156
+21/04/2010 00:00;valutazioe diagnostica dell`ipertensione arteriosa e delle complicanze;M;62;N;da 10% a 20%;12/04/2010 00:00;;42170
+03/05/2010 00:00;obesita` ed ipertensione arteriosa;Maschio;35;No;<5%;;;42191
+18/05/2010 00:00;valutazione del rischio cv in iperteso;Maschio;50;Si; ;;;42216
+06/04/2010 00:00;valutazione del rischio CV in soggetto iperteso;Femmina;66;No;da 5% a 10%;01/04/2010 00:00;;42230
+04/05/2010 00:00;valutazione delle complicanze in soggetto iperteso ed obeso;Maschio;37;Si;da 5% a 10%;;;42241
+07/04/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;52;N;da 10% a 20%;26/05/2010 00:00;;42246
+03/05/2010 00:00;ipertensione arteriosa non controllata famacologicamente. valutazione dele complicanze e del RCV ;Maschio;59;Si;da 10% a 20%;;;42269
+16/06/2010 00:00;obesita` e distiroidismo;F;33;N;<5%;;;42285
+08/06/2010 00:00;valutazione delle complicanze in soggetto iperteso;Maschio;78;No;da 10% a 20%;;;42294
+25/03/2010 00:00;Cardiopatia valvolare mitralica in follow-up;F;52;N;da 5% a 10%;14/04/2010 00:00;;42311
+19/05/2010 00:00;Crisi ipertensivi associate a palpitazioni;Maschio;26;Si; ;;;42337
+05/01/2011 00:00;Sospetta malattia del nodo del seno;M;59;N; ;;;42340
+03/05/2010 00:00;ipertensione arteriosa non controllata farmcologicamente;Femmina;62;No; ;;;42343
+16/06/2010 00:00;valutazione diagnostica ipertensione in giovane eta`;Maschio;29;Si;<5%;;;42360
+17/11/2014 00:00;Sospetta ipertensione secondaria;;;;;;;42361
+19/01/2015 00:00;Sosppetta ipertensione secondaria, prolungamento ricovero del 2014 per ipocinesia diffusa;;;;;;;42361
+23/09/2010 00:00;Valutazione diagnostica ipertensione arteriosa;M;26;N;<5%;03/11/2010 00:00;;42374
+08/04/2010 00:00;Cardiopatia ischemica in follow-up;M;45;S; ;14/04/2010 00:00;;42409
+12/04/2010 00:00;follow up cardiopatia ischemica;M;65;N;da 10% a 20%;30/06/2010 00:00;;42425
+12/11/2012 00:00;cardiopatia dilatativa e/o ischemica in f.u.; ;; ; ;06/12/2012 00:00;;42425
+15/06/2015 00:00;Sospetta ipertensione secondaria.;;;;;;;42440
+29/10/2010 00:00;sospetta ipertensione secondaria;M;17;N;<5%;;;42447
+03/02/2015 00:00;dolore toracico atipico, dispena, dislipidemia;Femmina;56;No;da 5% a 10%;26/02/2015 00:00;;42453
+05/07/2010 00:00;ipertensione arteriosa in corso di valutazione;Maschio;45;No;da 5% a 10%;28/05/2010 00:00;;42454
+19/04/2010 00:00;Valutazione rischio cardiovascolare;F;49;S; ;25/05/2010 00:00;;42484
+16/06/2010 00:00;Cardiopalmo aritimico-;Femmina;23;No;<5%;;;42532
+08/06/2010 00:00;Valutazione delle complicanze e del rischio CV in soggetto affetto da ipertensione arteriosa ;Femmina;63;No;da 5% a 10%;;;42552
+19/05/2010 00:00;Controllo pacemaker; ;; ; ;19/05/2010 00:00;;42557
+16/06/2010 00:00;sospetta ipertensione secondaria in soggetto di giovane età;Maschio;20;No;<5%;19/05/2010 00:00;;42561
+29/04/2010 00:00;Cardiopatia ischemica in follow-up;M;70;N;da 20% a 40%;01/07/2010 00:00;;42578
+29/03/2011 00:00;Ipertensione arteriosa non controllata, diabete mellito, pregresso CAD, pregressa PTCA arteria renale ds e carotide interna ds, IRC IV Stadio;M;71;N; ;22/02/2011 00:00;;42578
+03/05/2010 00:00;IRC IPERTENSAIONE ARTERIOSA;Maschio;84;No;da 20% a 40%;01/07/2010 00:00;;42607
+12/10/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa. primo inquadramento;M;46;N;da 5% a 10%;16/07/2010 00:00;;42628
+06/10/2010 00:00;valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento* Valutazione delle complicanze e del rischio cardiovascolare;F;60;S;da 10% a 20%;26/07/2010 00:00;;42631
+25/05/2010 00:00;Sospetta ipertensione secondaria;M;41;N;da 5% a 10%;23/07/2010 00:00;;42652
+17/06/2011 00:00;CAD; ;; ; ;;;42655
+06/10/2010 00:00;valutazione ipertensione arteriosa;M;69;N;da 10% a 20%;01/06/2010 00:00;;42667
+11/05/2010 00:00;Valutazione delle complicanze e del rischio cardioascolare;F;41;N; ;31/05/2010 00:00;;42673
+05/01/2011 00:00;Valutazione diagnostica dell`Ipertensione Arteriosa. Sopsetta Ipertensione secondaria.;F;54;S;da 5% a 10%;;;42675
+13/07/2010 00:00;Recente episodio ischemico cerebrale;Maschio;62;Si;da 20% a 40%;08/06/2010 00:00;;42678
+06/10/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento* Valutazione complicanze del rischio cardiovascolare;M;43;S;da 5% a 10%;20/07/2010 00:00;;42710
+19/05/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento;M;62;S; ;28/05/2010 00:00;;42733
+03/06/2010 00:00;Sospetta ipertensione secondaria;F;39;N;<5%;28/10/2010 00:00;;42758
+28/05/2010 00:00;Sospetta ipertensione secondaria;M;37;N; ;25/06/2010 00:00;;42773
+06/10/2010 00:00;valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria;M;45;N;da 10% a 20%;19/07/2010 00:00;;42796
+20/04/2015 00:00;Cardiopatia dilatativa. Impianto di ICD.;;;;;;;42812
+11/10/2010 00:00;Sospetta sindrome di Brugada;M;37;N;<5%;15/09/2010 00:00;;42829
+04/02/2011 00:00;Sospetta stenosi a. renale;F;34;S;<5%;16/02/2011 00:00;;42880
+09/06/2010 00:00;Cardio dilatativa e/o ischemica in Follow-up;F;72;N; ;06/09/2010 00:00;;42887
+10/06/2010 00:00;Cardiopatia ischemica in follow-up.;M;74;N;da 10% a 20%;15/09/2010 00:00;;42903
+11/06/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria;M;46;N; ;26/10/2010 00:00;;42913
+30/06/2010 00:00;Valutazione del rischio e delle complicanze dell`ipertensione arteriosa in pz obeso;M;46;N;<5%;;;42920
+13/07/2010 00:00;Valutazione diagnostica e delle complicanze in iperteso;M;60;S;da 20% a 40%;25/06/2010 00:00;;42930
+31/12/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria. Iperprolattinemia.;F;35;N;<5%;04/04/2011 00:00;;42937
+04/02/2011 00:00;Sospetto Meningioma della clinoide;F;35;N; ;04/04/2011 00:00;;42937
+16/06/2010 00:00;valutazione delle complicanze e del rischio cardiocvascolare;M;62;N;da 5% a 10%;25/10/2010 00:00;;42940
+16/06/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;58;N;da 5% a 10%;27/09/2010 00:00;;42942
+18/06/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare.;Maschio;67;No;da 20% a 40%;18/06/2010 00:00;;42962
+29/03/2011 00:00;Follow-Up cardiopatia ischemica;M;68;N;da 10% a 20%;;;42962
+14/07/2010 00:00;Sospetta ipertensione secondaria;F;40;N;<5%;06/09/2010 00:00;;43016
+05/07/2010 00:00;follow up cardiopatia ischemica;M;59;S;da 10% a 20%;01/07/2010 00:00;;43041
+21/06/2012 00:00;Sospetta ipertensione secondaria;M;59;N;da 10% a 20%;;;43045
+05/07/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;59;N; ;03/11/2010 00:00;;43054
+06/10/2010 00:00;valutazione diagnostica dell`ipertensione arteriosa. sospetta ipertensione secondaria;F;37;N;<5%;07/07/2010 00:00;;43070
+05/01/2011 00:00;Episodio Pre-sincopale (cardiopalmo aritmico);F;41;S; ;;;43087
+12/10/2010 00:00;alutazione delle complicanze e del rischio cardiovascolare;M;53;S;da 10% a 20%;22/01/2010 00:00;;43097
+10/11/2010 00:00;Valutazione delle complicanze e del RCV in soggetto obeso ed iperteso.OSAS ;Femmina;54;No; ;19/10/2010 00:00;;43099
+10/11/2010 00:00;Valutazione delle complicanze in soggetto iperteso;Maschio;41;Si; ;05/10/2010 00:00;;43105
+11/10/2010 00:00;Valutazione delle complicanze e rischio cardiovascolare;M;31;S;da 5% a 10%;30/07/2010 00:00;;43147
+12/10/2010 00:00;valutazione delle complicanze del rischio cardiovascolare;M;52;N;da 10% a 20%;17/09/2010 00:00;;43175
+06/06/2012 00:00;FA parossistica, cardioversione elettrica;M;70;N; ;06/06/2012 00:00;;43230
+03/05/2016 00:00;Angina da sforzo in soggetto con indicazione a test provocativi farmacologici;;;;;;;43231
+05/01/2011 00:00;Valutazione Diagnostica dell`Ipertensione arteriosa. Sospetta ipertensione secondaria.;F;45;N;da 5% a 10%;;;43239
+17/06/2013 00:00;Sospetta cardiopatia ischemica;M;66;N;da 20% a 40%;;;43270
+12/10/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria.;M;49;S;da 10% a 20%;01/10/2010 00:00;;43303
+08/09/2010 00:00;Valutazione diagnoostica dell`ipertensione arteriosa. Sospetta Ipertensione secodaria.;F;20;N; ;06/12/2010 00:00;;43310
+04/10/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria;M;35;N; ;13/10/2010 00:00;;43327
+10/01/2011 00:00;Sospetto trombo atriale sx;Femmina;81;No;da 5% a 10%;;;43328
+14/10/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa primo inquadramento;M;56;S;da 20% a 40%;01/10/2010 00:00;;43404
+28/07/2011 00:00;Valutazione massa in atrio;Femmina;82;Si;da 10% a 20%;;;43415
+10/11/2010 00:00;valutazione del rischio cardio vascolare.Labilità omeostasi pessoria;Maschio;39;Si; ;02/11/2010 00:00;;43455
+04/10/2010 00:00;Valutazioen delle complicanze  edel rischio cardiovascolare;F;66;S; ;07/10/2010 00:00;;43482
+18/10/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;48;S;da 5% a 10%;01/12/2010 00:00;;43485
+05/01/2011 00:00;Vasculite di ndd;F;40;S; ;;;43494
+19/01/2012 00:00;Valutazione delle complicanze del risschio cardiovascolare. Cardiopatia ischemica in follow-up;F;49;S; ;22/12/2011 00:00;;43539
+12/10/2010 00:00;Valutazione del rischio Cardiovascolare;M;68;S; ;16/11/2010 00:00;;43556
+05/01/2011 00:00; Valutazione e complicanze del rischio Cardiovascolare;M;47;N;da 5% a 10%;;;43569
+05/01/2011 00:00;Valutazioone delle complicanze e del rischio Cardiovascolare;M;80;S;da 20% a 40%;;;43582
+21/02/2012 00:00;cadiopatia dilatativa e/o ischemica in follow-up; ;; ; ;20/11/2012 00:00;;43582
+26/05/2014 00:00;Cardiopatia ischemica in follow-up; ;; ; ;;;43582
+20/10/2010 00:00;Valutazione del rischio Cardiovascolare;M;63;S; ;20/11/2010 00:00;;43606
+20/06/2014 00:00;valutazione rischio cardiovascolare; ;; ; ;;;43606
+10/01/2011 00:00;Valutazione diagnostica dell` ipertensione arteriosa. Primo inquadramento. valutazione delle complicanze e del rischio cardiovascolare.Cardipatia dilatativa e/o ischemica in follow-up.;M;55;S; ;22/11/2010 00:00;;43607
+26/10/2010 00:00;Valutazione del rischio Cardiovascolare;M;37;N; ;01/12/2010 00:00;;43661
+27/10/2010 00:00;Valutazione del rischio Cardiovascolare;M;70;N; ;18/11/2010 00:00;;43673
+15/10/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta Ipertensione secondaria;M;63;N;da 10% a 20%;09/12/2010 00:00;;43687
+05/01/2011 00:00;Cardiopatia dilatativa e/o ischemica in Follow-up;M;72;N;da 10% a 20%;;;43693
+03/11/2010 00:00;Valutazione del rischio Cardiovascolare;M;44;N; ;02/12/2010 00:00;;43718
+05/11/2010 00:00;Valutazione del rischio cardiovascolare;M;75;S; ;26/11/2010 00:00;;43749
+06/06/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare.;M;77;S; ;13/07/2012 00:00;;43749
+08/11/2010 00:00;Valutazione del rischio Cardiovascolare;F;39;N; ;17/11/2010 00:00;;43754
+26/03/2012 00:00;Valutazione degli esiti della sostituzione valvolare aortica.;F;41;N;<5%;17/07/2012 00:00;;43754
+10/11/2010 00:00;Sospetta ipertensione secondaria* ;M;44;S; ;19/11/2010 00:00;;43778
+05/01/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta Ipertensione secondaria;M;49;N;da 5% a 10%;;;43789
+09/02/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;47;S;<5%;;;43802
+04/11/2014 00:00;Cardiopalmo aritmico e dispnea;;;;;;;43803
+15/11/2010 00:00;Valutazione del rischio Cardio Vascolare;M;64;S; ;24/11/2010 00:00;;43807
+17/11/2010 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria;F;53;N; ;10/12/2010 00:00;;43832
+17/11/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;34;S; ;24/11/2010 00:00;;43833
+22/11/2010 00:00;Valutazione del rischio Cardiovascolare;M;44;S; ;10/12/2010 00:00;;43871
+24/01/2011 00:00;CAD in follow-up;M;51;S; ;04/02/2011 00:00;;43876
+23/11/2010 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;42;S; ;10/12/2010 00:00;;43888
+30/11/2010 00:00;Cardiopatia dilatativa e/o ischemica in follow-up;M;62;N; ;17/12/2010 00:00;;43946
+30/11/2012 00:00;Sospetta ipertensione secondaria;M;64;N; ;12/12/2011 00:00;;43958
+09/09/2014 00:00;CAD IN FOLLOW-UP; ;; ; ;;;43958
+29/12/2016 00:00;;Maschio;67;No;da 10% a 20%;21/12/2016 00:00;;43958
+22/05/2013 00:00;Cardiopatia ischemica in follow-up;M;57;N; ;;;43985
+10/01/2011 00:00;Valutazione diagnostica dell` ipertensione arteriosa. Primo inquadramento. valutazione delle complicanze e del rischio cardiovascolare.Cardipatia dilatativa e/o ischemica in follow-up.;F;58;N; ;21/12/2010 00:00;;44004
+23/03/2015 00:00;dolore toracico atipico, dispnea, CAD.;Femmina;60;No;;01/04/2015 00:00;;44087
+28/07/2011 00:00;Ictus Emorragico (2010) Ictus Ischemico (2011). Sospetto ipertensione secondaria.;Maschio;31;No;<5%;;;44111
+29/03/2011 00:00;Valutazione diagnostica dell`Ipertensione arteriosa;F;64;N;da 10% a 20%;23/02/2011 00:00;;44257
+29/03/2011 00:00;Valutazione rischio Cardiovascolare in soggetto iperteso e dislipidemico;M;44;N;<5%;;;44259
+07/02/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;55;N; ;;;44260
+18/02/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;47;N;<5%;;;44291
+02/02/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento* Valutazione delle complicanze e del rischio cardiovascolare;F;56;N;da 5% a 10%;10/03/2011 00:00;;44385
+15/02/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare* FA permanente;M;62;N;da 10% a 20%;06/04/2011 00:00;;44406
+04/02/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;40;N;<5%;;;44408
+10/02/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria;M;48;S; ;02/03/2011 00:00;;44409
+21/02/2011 00:00;Valutazione dell`ipertensione arteriosa. Sospetta ipertensione secondaria.;M;22;S;<5%;;;44429
+29/03/2011 00:00;Valutazione delle complicanze e del rischio Cardiovascolare;M;53;N;da 20% a 40%;25/02/2011 00:00;;44446
+01/10/2014 00:00;Sospetta ipertensione arteriosa;;;;;;;44464
+29/03/2011 00:00;Valutazione delle complicanze e del rischio Cardiovascolare;M;50;S;da 5% a 10%;11/03/2011 00:00;;44497
+16/02/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare* Pregresso ictus cerebri. DIA;F;43;N;<5%;24/03/2011 00:00;;44508
+29/03/2011 00:00;Valutazione delle complicanze e del rischio Cardiovascolare;M;48;N;<5%;23/02/2011 00:00;;44570
+08/03/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;70;S; ;;;44573
+02/08/2013 00:00;fibrillazione atriale da sottoporre a CVE;F;69;S;da 10% a 20%;10/07/2013 00:00;;44654
+01/03/2012 00:00;Valutazione del rischio e delle complicanze cardiovascolari;M;81;N; ;01/03/2012 00:00;;44666
+09/03/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa: Primo inquadramento.* Valutazione delle complicanze e del rischio cardiovascolare.;M;63;N;da 10% a 20%;25/03/2011 00:00;;44695
+24/03/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;42;N;<5%;;;44720
+21/03/2011 00:00;Valutazione diagnostica dell `ipertensione arteriosa. Primo inquadramento* Valutazione diagnostica delle complicanze e del rischio cardiovascolare. Ectasia aortica.Obesità.;F;65;N;da 5% a 10%;08/04/2011 00:00;;44775
+23/03/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Primo inquadramento* Valutazione delle complicanze e del rischio cardiovascolare. Sospetto Cushing. Obesità.;F;62;N;da 5% a 10%;01/04/2011 00:00;;44799
+28/09/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;48;S; ;;;44831
+26/06/2012 00:00;sospetta celiachia; ;; ; ;;;44844
+04/04/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;28;N; ;;;44880
+13/04/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;66;N; ;;;44916
+28/09/2011 00:00;Astenia letargica post-virale (E.B.V);M;21;N;<5%;;;44940
+11/01/2013 00:00;Cardiopatia ischemica in follow-up.;M;70;N; ;;;44981
+18/04/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;58;Si;da 10% a 20%;09/09/2011 00:00;;44987
+13/12/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;71;N;da 10% a 20%;;;45004
+28/09/2011 00:00;Cardiopatia ischemica e/o dilatativa in follow-up;M;54;S;da 10% a 20%;;;45013
+28/09/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa;M;49;N;da 5% a 10%;;;45045
+05/05/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;52;N;da 10% a 20%;05/05/2011 00:00;;45093
+28/07/2011 00:00;Cardiopatia ischemica e/o dilatativa in follow-up;Maschio;63;Ex;da 20% a 40%;;;45171
+10/01/2012 00:00;Cardiopatia ischemica in follow-up;F;36;N; ;28/12/2011 00:00;;45191
+11/02/2015 00:00;CAD e Valutazione Impianto ICD.;Femmina;39;No;;18/03/2015 00:00;;45200
+28/09/2011 00:00;Valutazione dell`ipertensione arteriosa;F;59;N; ;;;45216
+12/04/2012 00:00;sospetta ipertensione secondaria;F;37;N; ;12/04/2012 00:00;;45232
+08/06/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;39;N; ;;;45263
+24/05/2011 00:00;Ipertensione arteriosa; ;; ; ;;;45263
+25/05/2011 00:00;Valutazione diagnostica dell complicanze e del rischio cardiovascolare;M;46;N;da 5% a 10%;;;45270
+27/05/2011 00:00;CAD; ;; ; ;;;45298
+21/09/2011 00:00;CAD; ;; ; ;;;45302
+13/12/2011 00:00;Valutazione dell` ipertensione arteriosa. Primo inquadramento.;M;56;N;da 10% a 20%;;;45334
+28/07/2011 00:00;Valutazione delle complicanze e del rischio CV;Maschio;69;No;da 20% a 40%;;;45362
+13/12/2011 00:00;Valutazione dell` ipertensione arteriosa. Primo inquadramento. Valutazione delle complicanze e del rischio cardiovascolare;M;67;N;da 10% a 20%;;;45385
+11/07/2011 00:00;Ipertensione arteriosa; ;; ; ;;;45393
+16/01/2012 00:00;Valutazione delle complicannze e del rischio cardiovascolare;M;26;N; ;12/07/2011 00:00;;45396
+22/06/2011 00:00;Ipertensione arteriosa; ;; ; ;;;45454
+16/01/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;45;N; ;19/07/2011 00:00;;45490
+22/07/2011 00:00;Episodio flogistico broncopneumonico; ;; ; ;;;45494
+07/07/2011 00:00;Sospetta Ipertensione secondaria;M;35;N;<5%;07/09/2011 00:00;;45532
+04/07/2011 00:00;Ipertensione arteriosa; ;; ; ;;;45547
+11/07/2011 00:00;Sospetta ipertensione secondaria;M;22;N;<5%;14/10/2011 00:00;;45552
+12/07/2011 00:00; ; ;; ; ;;;45611
+13/07/2011 00:00;Sospetta ipertensione secondaria;M;68;S;da 20% a 40%;12/09/2011 00:00;;45621
+10/01/2012 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione arteriosa;F;36;N; ;27/10/2011 00:00;;45635
+25/07/2011 00:00;Ipertensione arteriosa; ;; ; ;;;45690
+26/07/2011 00:00;Cardiopatia ipertensiva e vasculopatia cerebrale; ;; ; ;;;45708
+06/09/2011 00:00;Sospetta ipertensione secondaria;F;40;S;da 5% a 10%;28/10/2011 00:00;;45735
+06/09/2011 00:00;Valutazione delle complicanze del rischio cardiovascolare;F;52;S;da 20% a 40%;04/10/2011 00:00;;45856
+12/09/2011 00:00;Ipertensione arteriosa; ;; ; ;;;45889
+13/09/2011 00:00;Sospetta ipertensione secondaria;M;39;N;<5%;03/10/2011 00:00;;45909
+03/10/2011 00:00;Valutazione diagnostica dell`ipertensione arteriosa primo inquadramento;M;37;S;<5%;10/10/2011 00:00;;46026
+10/01/2012 00:00;Valutazione diagnostica dell`ipertensioen arteriosa. Sospetta ipertensione secondaria;F;20;N; ;09/09/2011 00:00;;46057
+10/10/2011 00:00;Valutazione diagnostica dell ipertensione arteriosa e delle complicanze cardiovascolari (rischio aggiuntivo); ;; ; ;;;46080
+21/10/2011 00:00;Valutazione diagn-funzionale; ;; ; ;;;46129
+10/01/2012 00:00;lutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione arteriosa. Ipertensione resistente in trattamento;M;30;N; ;06/12/2011 00:00;;46185
+02/05/2012 00:00;Sospetta ipertensione secondaria;F;32;S; ;23/03/2012 00:00;;46200
+27/10/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;67;S;da 10% a 20%;22/11/2011 00:00;;46205
+10/01/2012 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertesione secondaria;F;33;S; ;;;46245
+25/05/2012 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta secondaria;F;33;S;<5%;24/04/2012 00:00;;46245
+04/11/2011 00:00;Sospetta ipertensione secondaria;M;21;N;<5%;09/11/2011 00:00;;46259
+10/01/2012 00:00;Valutazione delle complicanze  edel rischio cardiovascolare. Sospetta ipertensione secondaria;M;45;S; ;07/12/2011 00:00;;46281
+02/07/2014 00:00;cardiopatia ischemica in follow-up; ;; ; ;;;46375
+16/01/2012 00:00;Valutazione diagnostica dell`ipertensione. Sospetta ipertensione secondaria. Valutazione delle complicanze e del rischio cardiovascolare;F;65;S; ;21/12/2011 00:00;;46445
+16/01/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare. Ipertensione resistente al trattamento;F;70;N; ;16/12/2011 00:00;;46457
+17/05/2012 00:00;sospetta ipertensione secondaria;F;48;N; ;28/03/2012 00:00;;46468
+09/12/2011 00:00; ; ;; ; ;;;46527
+09/01/2012 00:00;Sospetta ipertensione secondaria;M;50;N; ;;;46549
+18/07/2013 00:00;Sospetta ipertensione secondaria.; ;; ; ;;;46560
+16/01/2012 00:00;Valtazione delle complicanze e del rischio cardiovascolare. Ipertensione resistente in trattamento;F;45;S; ;23/12/2011 00:00;;46582
+10/01/2012 00:00;Valutazione del rischio cardiovascolare;M;49;S; ;13/06/2011 00:00;;46644
+11/05/2012 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria; ;; ; ;;;46760
+05/04/2012 00:00;Ipertension eresistente in trattamento;F;73;N; ;28/03/2012 00:00;;46827
+30/01/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare.;F;61;N;da 10% a 20%;;;46839
+17/01/2012 00:00;Sospetto feocromocitoma;F;17;S; ;17/01/2012 00:00;;46851
+01/02/2012 00:00;Sospetta Ipertensione secondaria;F;36;N;<5%;09/03/2012 00:00;;46873
+14/02/2012 00:00;Sospetta ipertensione secondaria;F;73;N;da 10% a 20%;;;46880
+19/05/2014 00:00;Sospetta ipertensione secondaria; ;; ; ;;;46891
+29/03/2012 00:00;valutazione delle complicanze e del rischio cardiovascolare;F;62;S; ;29/03/2012 00:00;;46903
+26/11/2013 00:00;CVE di FA;M;66;N; ;;;46907
+19/03/2012 00:00;sospetta ipertensione secondaria; ;; ; ;;;46950
+22/06/2012 00:00;Sospetta sindrome di Brugada.;F;40;S;<5%;22/06/2012 00:00;;46977
+05/04/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;20;S; ;27/03/2012 00:00;;47001
+13/03/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;69;N;da 5% a 10%;13/03/2012 00:00;;47017
+05/03/2012 00:00;Sospetta Ipertensione secondaria;M;19;S;<5%;08/03/2012 00:00;;47121
+30/12/2014 00:00;cardiovesione elettrica di FA e cardiopatia ischemica in follow-up;;;;;;;47133
+12/03/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare.;F;37;S;<5%;17/07/2012 00:00;;47162
+02/05/2012 00:00;Sospetta ipertensione arteriosa;F;59;N; ;19/04/2012 00:00;;47188
+31/05/2012 00:00;sospetta ipertensione secondaria;F;38;S;<5%;31/05/2012 00:00;;47201
+11/05/2012 00:00;cardioversione elettrica;M;68;S; ;13/04/2012 00:00;;47204
+22/06/2012 00:00;Sospetta ipertensione secondaria;M;21;N; ;25/05/2012 00:00;;47219
+03/07/2012 00:00;Sospetta ipertensione arteriosa secondaria.;M;19;N;<5%;11/06/2012 00:00;;47229
+11/05/2012 00:00;Folllow-up cardiopatia ischemica;M;46;S; ;02/05/2012 00:00;;47241
+14/05/2012 00:00;episodio sincopale;M;49;S;da 5% a 10%;04/04/2012 00:00;;47250
+28/03/2012 00:00;Sospetta ipertensione secondaria.;M;48;N;da 5% a 10%;06/06/2012 00:00;;47270
+14/05/2012 00:00;Cardiopatia dilatativa e/o ischemica in Follow-up;F;79;N;da 10% a 20%;14/05/2012 00:00;;47283
+16/04/2012 00:00;Sospetta ipertensione secondaria.;M;18;N;<5%;;;47288
+11/05/2012 00:00;cardioversione elettrica FA;M;78;N; ;26/04/2012 00:00;;47309
+11/05/2012 00:00;Valutazione diagnostica delle complicanze e del rischio cardiovascolare;F;46;S; ;18/04/2012 00:00;;47317
+02/05/2012 00:00;Cardioversione elettrica;M;75;S; ;03/04/2012 00:00;;47344
+15/05/2012 00:00;Sospetta ipetensione secondaria.;F;34;S; ;;;47380
+06/06/2012 00:00;Cardiopatia dilatativa e/o ischemica in follow-up;M;66;N; ;06/06/2012 00:00;;47457
+29/06/2012 00:00;Follow-up cardiopatia ischemica;M;65;N; ;01/06/2012 00:00;;47476
+11/05/2012 00:00;Ipertensione resistente in trattamento;F;56;S; ;23/04/2012 00:00;;47485
+02/05/2012 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria.;M;15;N;<5%;15/05/2012 00:00;;47492
+26/04/2012 00:00;Sospetto DIA;M;41;N; ;;;47511
+03/05/2012 00:00;Sospetta ipertensione secondaria.;M;29;N;<5%;;;47521
+16/05/2012 00:00;Sospetta ipertensione secondaria;M;20;N; ;;;47543
+13/06/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;47553
+09/05/2012 00:00;Sospetta ipertensione secondaria;M;53;N; ;;;47605
+04/03/2014 00:00;Lesioni epatiche secondarie;F;60;S; ;;;47639
+24/05/2012 00:00;Colecistite in soggetto con ectopia sopraventricolare e ventricolare;M;34;N; ;;;47709
+14/06/2012 00:00;Sospetta ipertensione secondaria.;F;21;N;<5%;;;47728
+29/06/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;53;N; ;20/06/2012 00:00;;47745
+04/06/2012 00:00;Sospetta cardiopatia ischemica.;M;60;S;da 20% a 40%;12/06/2012 00:00;;47800
+05/09/2012 00:00;Sospetta ipertensione secondaria;M;60;N; ;;;47841
+04/01/2013 00:00;Sospetta ipertensione secondaria;M;61;N;da 20% a 40%;;;47841
+11/06/2012 00:00; ;Maschio;41;Si;da 10% a 20%;;;47857
+14/01/2013 00:00;Valutazione diagnostica dell ipertensione arteriosa. Sospetta ipertensione secondaria.;M;20;N;<5%;;;48037
+13/09/2012 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria; ;; ; ;03/12/2012 00:00;;48072
+25/11/2013 00:00;Precordialgie atipiche in paziente con elevati valori pressori.; ;; ; ;;;48090
+20/07/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare.;F;71;S;da 20% a 40%;;;48125
+16/07/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare in paziente con sospetto prolasso della valvola mitralica e insufficienza venosa agli arti inferiori.;F;44;S;<5%;;;48145
+16/07/2012 00:00;Sospetta S. di Brugada;M;38;N;<5%;;;48147
+25/07/2012 00:00;Cardiopatia ischemica in follow-up;M;74;N;da 20% a 40%;;;48222
+04/03/2014 00:00;Cardiopatia ischemica in follow-up;;;;;;;48274
+03/09/2012 00:00;crisi ipertensive con vertigini;F;66;N;da 10% a 20%;;;48324
+28/08/2012 00:00;BBSx di nuova insorgenza.;M;77;S;>40%;03/09/2012 00:00;;48355
+09/09/2013 00:00;Cardiopatia ischemica in follow-up; ;; ; ;;;48355
+26/09/2012 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria.; ;; ; ;26/10/2012 00:00;;48386
+10/09/2012 00:00;Sospetta cardiopatia ischemica.; ;; ; ;02/10/2012 00:00;;48422
+10/09/2014 00:00;FA e VERSEMENTO PERICARDICO; ;; ; ;;;48425
+11/09/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;69;S;da 20% a 40%;;;48439
+04/12/2012 00:00;Valutazione diagnostica dell`ipertensione arteriosa. Sospetta ipertensione secondaria.; ;; ; ;04/12/2012 00:00;;48471
+18/09/2012 00:00;Sospetto ipertensione secondaria; ;; ; ;10/12/2012 00:00;;48516
+15/01/2013 00:00;Dissezione aortica tipo B. Sospetta ipertensione secondaria.;M;46;N;da 5% a 10%;;;48516
+08/07/2013 00:00;Cardiopatia ischemica in follow-up;M;48;S;da 5% a 10%;;;48523
+16/07/2014 00:00;cardiopatia ischemica in follow-up; ;; ; ;;;48523
+20/09/2012 00:00;Valutazione del rischio e delle complicanze cardiovascolari.;M;69;S; ;;;48526
+25/09/2012 00:00;Sospetta stenosi significativa della carotide interna destra in paziente  affetto da cardiopatia ischemica cronica; ;; ; ;;;48576
+02/10/2012 00:00;Sospetto sindrome di Wolff-Parkinson-White;M;54;S; ;;;48620
+03/10/2012 00:00;Ipertensione artesiosa resistente. Diabete mellito. Arteriopatia polidistrettuale.; ;; ; ;13/12/2012 00:00;;48638
+26/02/2015 00:00;Diplopia;;;;;;;48638
+12/10/2012 00:00;Sospetta cardiopatia ischemica.;M;70;N; ;;;48662
+08/10/2012 00:00;cardiopatia valvolare aortica severa; ;; ; ;;;48670
+10/10/2012 00:00;Cardiopatia ischemica in follow-up;M;78;N;da 10% a 20%;;;48710
+15/10/2012 00:00;sospetta ipertensione secondaria;M;32;N;<5%;;;48726
+11/10/2012 00:00;Pregresso IMA silente;F;62;S;da 10% a 20%;;;48727
+11/01/2013 00:00;sospetta ipertensione secondaria;M;24;N;<5%;;;48832
+22/10/2012 00:00;Ipertensione arteriosa non controllata con cefalea e vomito;F;54;N; ;;;48843
+01/12/2016 00:00;Comparsa di aritmia totale da fibrillazione atriale in paziente affetto da HCM portatore di PMK;Maschio;77;No;da 10% a 20%;27/10/2016 00:00;;48873
+24/10/2012 00:00;Cardiopatia ischemica in follow-up;M;54;N; ;;;48879
+05/11/2012 00:00;Palpitazioni di ndd in paziente con rene mobile;F;31;N;<5%;;;48959
+13/12/2012 00:00;cardiopatia dilatativa e/o ischemica in FU.;M;67;S;da 10% a 20%;;;49059
+19/11/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare in paziente ipertesa e tiroidectomizzata;F;45;S; ;;;49109
+20/11/2012 00:00;Sospetta ipertensione secondaria;F;15;N; ;;;49129
+02/01/2013 00:00;Sospetta ipertensione secondaria.;F;16;N;<5%;;;49129
+21/11/2012 00:00;Sospetta ipertensione secondaria;F;25;N;<5%;;;49146
+22/11/2012 00:00;Sospetta cardiopatia ischemica;F;44;N;<5%;;;49162
+29/11/2012 00:00;Sospetto feocromocitoma;M;57;N;da 10% a 20%;;;49230
+29/11/2012 00:00;Valutazione delle complicanze del rischio e delle complicanze del rischio CV;M;29;S; ;;;49231
+14/11/2013 00:00;Valutazione delle complicanze e del rischio cardiovascolare; ;; ; ;;;49231
+06/12/2012 00:00;Sospetta ipertensione secondaria;M;43;S;da 10% a 20%;;;49257
+03/12/2012 00:00;Valutazione diagnostica dell ipertensione arteriosa. Sospetta ipertensione secondaria.;M;42;N; ;;;49265
+05/12/2012 00:00;Sospetta tachicardia da rientro nodale;F;45;S; ;;;49286
+13/12/2012 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;59;N;da 10% a 20%;;;49354
+13/04/2015 00:00;Dolore toracico atipico e dispnea per sforzi fisici di media entità.;;;;;;;49451
+03/01/2013 00:00;Valutazione delle complicanze e del rischio CV;F;39;S;<5%;;;49463
+04/01/2013 00:00;Sincope e palpitazioni.;F;35;N;<5%;;;49485
+07/01/2013 00:00;Precordialgie in soggetto affetto da ipertensione arteriosa e diabete mellito.;M;40;N;da 5% a 10%;;;49494
+23/10/2013 00:00;Cardiopatia ischemica in follow-up.; ;; ; ;;;49494
+01/12/2016 00:00;Frequenti episodi di palpitazioni associate a vertigine soggettive e dolore precordiale per sforzi moderati;Maschio;43;No;da 5% a 10%;23/11/2016 00:00;;49494
+20/02/2013 00:00;Valutazione delle complicanze e del rischio cardiovascolare. Precordialgie accompagnate a dispnea da sforzo;Maschio;; ; ;30/01/2013 00:00;;49512
+02/05/2013 00:00;Sospetta cardiopatia ischemica.;M;49;N; ;;;49544
+11/09/2014 00:00;CARDIOVERSIONE ELETTRICA DI FA; ;; ; ;;;49547
+10/02/2015 00:00;Cardioversione elettrica di FA;;;;;;;49547
+16/01/2013 00:00;Valutazione delle complicanze e del rischio cardiovascolare in paziente iperteso.; ;; ; ;;;49576
+21/01/2013 00:00;Precordialgie in paziente affetto da cardiopatia ischemica.;M;61;N; ;;;49616
+23/01/2013 00:00;Valutazione delle complicanze e del rischio CV;F;53;N; ;;;49643
+24/01/2013 00:00;valutazione diagnostica dell ipertensione arteriosa. Sospetta ipertensione secondaria.;M;57;N; ;;;49659
+31/07/2013 00:00;dolore toracico in cardiopatia ischemica cronica;M;74;N;da 20% a 40%;17/06/2013 00:00;;49687
+30/01/2013 00:00;Dispnea da sforzo in paziente con ridotti indici di funzione sistolica.;M;56;N;da 10% a 20%;;;49722
+31/07/2013 00:00;valutazione complicanze CV in pz con FA parossistica e ipertensione arteriosa;Maschio;48;No;da 10% a 20%;07/06/2013 00:00;;49757
+21/02/2013 00:00;Dispnea a riposo in soggetto con valvola aortica meccanica.;F;64;N;da 5% a 10%;;;49770
+18/02/2013 00:00;Sospetta ipertensione secondaria.;F;33;S;<5%;;;49778
+06/02/2013 00:00;Valutazione delle complicanze e del rischio CV;M;67;N;da 10% a 20%;;;49779
+07/02/2013 00:00;Sospetta cardiomiopatia.; ;; ; ;;;49795
+19/02/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;49811
+13/02/2013 00:00;Cardiopatia ischemica in follow-up;M;65;N;da 10% a 20%;;;49848
+26/05/2016 00:00;Dolore toracico in paziente affetto da DM tipo 2;;;;;;;49848
+25/02/2013 00:00;sospetta ipertensione secondaria;M;38;S;<5%;;;49885
+27/02/2013 00:00;sospetta cardiopatia ischemica;M;66;S;da 20% a 40%;;;49899
+20/02/2013 00:00;Valutazione delle complicanze e del rischio CV; ;; ; ;;;49913
+21/02/2013 00:00;Dolore precordiale durante sforzo in paziente affetto da stenosi aortica ed ectasia dell aorta ascendente.;M;60;N;da 10% a 20%;;;49927
+11/03/2013 00:00;Sospetta ipertensione secondaria;M;21;N; ;;;49933
+28/02/2013 00:00;Cardiopatia dilatativa e/o ischemica in Follow-up.;M;65;N; ;;;49995
+04/03/2013 00:00;Cardiopatia ischemica in follow-up;F;65;N;da 10% a 20%;;;50025
+13/03/2013 00:00;Sospetta ipertensione secondaria.;M;28;N;<5%;;;50036
+06/03/2013 00:00;Sospetta cardiopatia ischemica.; ;; ; ;;;50049
+12/03/2013 00:00;Cardiopatia ischemica in follow-up.;Maschio;74;No;da 20% a 40%;;;50109
+18/03/2013 00:00;Episodi di elevati valori pressori e dispnea in paziente portatrice di protesi meccanica in sede mitralica.;F;56;N; ;;;50163
+19/03/2013 00:00;Episodi di dispnea a riposo; ;; ; ;;;50169
+31/07/2013 00:00;Episodio lipotimico;M;41;N;<5%;08/05/2013 00:00;;50182
+26/03/2013 00:00;Sospetta ipertensione secondaria.;M;43;N;da 5% a 10%;;;50207
+22/10/2013 00:00;CVE di FA.; ;; ; ;;;50236
+28/07/2014 00:00;cardioversione elettrica di fa; ;; ; ;;;50236
+24/04/2013 00:00;Valutazione delle complicanze e del rischio cardiovascolare.;M;78;N;da 20% a 40%;;;50263
+05/08/2013 00:00;sospetta secondaria;F;30;S;<5%;05/06/2013 00:00;;50276
+03/04/2013 00:00;Cardiopatia ischemica in follow-up;M;63;N; ;;;50286
+22/03/2013 00:00;Sospetta cardiopatia ischemica.;M;66;N;da 20% a 40%;;;50302
+04/03/2014 00:00;valutazione del rischio cardiovascoalre;M;64;S;da 20% a 40%;;;50329
+30/04/2015 00:00;Dolore precordiale in relazione a sforzi fisici in soggetto affetto da ipertensione arteriosa in fase di impegno d` organo.;;;;;;;50329
+09/04/2013 00:00;Scompenso cardiaco. DIA.; ;; ; ;;;50337
+19/07/2013 00:00;Cardiopatia ischemica in follow-up;Maschio;59;No; ;10/07/2013 00:00;;50419
+09/07/2014 00:00;Cardiopatia ischemica in follow-up; ;; ; ;;;50431
+06/05/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;50436
+22/04/2013 00:00;Febbre di ndd ed ingrossamento stazioni linfonodali laterocervicali.; ;; ; ;;;50452
+31/07/2013 00:00;Sospetta ipertensione secondaria;F;20;N;<5%;02/07/2013 00:00;;50463
+09/05/2013 00:00;Sospetta ipertensione secondaria;M;69;N; ;;;50508
+13/05/2013 00:00;Sospetta ipertensione secondaria.; ;; ; ;;;50510
+07/05/2013 00:00;Sospetta ipertensione secondaria;F;55;N;da 5% a 10%;;;50531
+06/05/2013 00:00;Sospetta ipertensione secondaria.; ;; ; ;;;50542
+14/05/2013 00:00;Sospetta sindrome di Fabry.;F;23;N;<5%;19/07/2013 00:00;;50565
+20/05/2013 00:00;sospetta ipertensione secondaria;M;21;N; ;;;50588
+15/05/2013 00:00;Episodi sincopali.; ;; ; ;;;50624
+27/05/2013 00:00;Sospetta cardiopatia ischemica.; ;; ; ;;;50692
+28/05/2013 00:00;Sospetta ipertensione secondaria.; ;; ; ;;;50718
+17/06/2013 00:00;IPOTENSIONE ORTOSTATICA; ;; ; ;;;50879
+27/06/2013 00:00;Sospetta s. di Brugada; ;; ; ;;;50923
+27/04/2015 00:00;Dolore toracico atipico, dispnea, palpitazioni;Femmina;58;No;;29/05/2015 00:00;;50941
+26/06/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;50951
+14/10/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;50992
+01/07/2013 00:00;lesioni ischemiche cerebrali multiple* ; ;; ; ;;;51004
+09/07/2013 00:00;Valutazione delle complicanze e del rischio cardiovascolare;M;47;N;da 5% a 10%;29/07/2013 00:00;;51065
+08/08/2013 00:00;Fibrillazione atriale di recente insorgenza in pz in TAO;F;69;N; ;15/07/2013 00:00;;51109
+23/07/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;51170
+27/08/2013 00:00;Cardiopatia ischemica cronica in follow-up; ;; ; ;;;51338
+03/09/2013 00:00;CVE di FA;M;59;N;;;;51362
+16/09/2013 00:00;Sospetta ipertensione secondaria* ; ;; ; ;;;51379
+12/09/2013 00:00;BBS di nuova insorgenza; ;; ; ;;;51425
+17/09/2013 00:00;Cardiopatia ischemica in follow-up;M;77;N; ;;;51456
+04/06/2014 00:00;Dispnea a riposo per sforzi di lieve entità. Cardiopalmo.; ;; ; ;;;51477
+09/06/2014 00:00;dispnea per sforzi lievi. Cardiopalmo; ;; ; ;;;51477
+20/09/2013 00:00;Precordialgie in soggetto affetto da ipertensione arteriosa ed ipercolesterolemia.;M;48;S;da 10% a 20%;;;51478
+30/09/2013 00:00;Episodi di precordialgie atipiche.; ;; ; ;;;51556
+02/10/2013 00:00;Valutazione rischio cardiovascolare; ;; ; ;;;51580
+09/10/2013 00:00;Dispnea e precordialgie atipiche in paziente affetta da aneurisma aortico.; ;; ; ;;;51638
+18/11/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;51653
+11/10/2013 00:00;CVE di FA;Maschio;; ; ;;;51672
+16/10/2013 00:00;Cardiomiopatia dilatativa in follow-up; ;; ; ;;;51715
+12/12/2013 00:00;cardioversione elettrica di fibrillazione atriale; ;; ; ;;;51753
+21/10/2013 00:00;Pericardite; ;; ; ;;;51755
+13/11/2013 00:00;Cardioversione elettrica di FA; ;; ; ;;;51812
+28/10/2013 00:00;CVE di FA; ;; ; ;;;51829
+04/12/2013 00:00;Dispnra da sforzo.; ;; ; ;;;51843
+30/10/2013 00:00;Cardiopatia ischemica in follow-up; ;; ; ;;;51859
+27/04/2016 00:00;;;;;;;;51859
+04/11/2013 00:00;Episodi sincopali.; ;; ; ;;;51898
+06/11/2013 00:00;episodio sincopale; ;; ; ;;;51929
+19/11/2013 00:00;CVE di FA;M;74;N; ;;;51941
+07/11/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;51943
+11/11/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;51972
+20/11/2013 00:00;Cardiopatia dilatativa in follow-up.; ;; ; ;;;52052
+04/12/2013 00:00;Sospetta ipertensione secondaria.; ;; ; ;;;52074
+31/12/2013 00:00;cardioversione elettrica di fibrillazione atriale; ;; ; ;;;52093
+05/12/2014 00:00;Cardioversione elettrica di fibrillazione atriale; ;; ; ;;;52105
+20/06/2014 00:00;cardioversione elettrica di fa; ;; ; ;;;52105
+27/11/2014 00:00;Carcinoma del colon retto in follow up;;;;;;;52119
+28/11/2013 00:00;Cardioversione elettrica di fibrillazione atriale; ;; ; ;;;52139
+02/12/2013 00:00;Tachicardia parossistica; ;; ; ;;;52173
+09/12/2013 00:00;Sospetta ipertensione secondaria; ;; ; ;;;52306
+23/03/2015 00:00;Fibrillazione atriale e CVE.;Maschio;62;No;;03/06/2015 00:00;;52354
+25/11/2014 00:00;sospetta ipertensione secondaria; ;; ; ;;;52396
+18/12/2013 00:00;Sospetto DIA; ;; ; ;;;52454
+20/06/2014 00:00;valutazione rischio cardiovascolare; ;; ; ;;;52509
+03/01/2014 00:00;Sospetta s. di Brugada;M;43;N;<5%;;;52586
+02/05/2014 00:00;scompenso cardiaco acuto; ;; ; ;;;52606
+15/05/2014 00:00;Sospetta ipertensione secondaria; ;; ; ;;;52615
+28/04/2014 00:00;Sospetta ipertensione secondaria; ;; ; ;;;52670
+29/07/2014 00:00;valutazione rischio cardiovascolare; ;; ; ;;;52702
+15/01/2014 00:00;Cardiopalmo aritmico e dispnea.;Maschio;76;No;da 20% a 40%;;;52709
+18/03/2014 00:00;Sospetta ipertensione secondaria, caridopatia ischemica in follow-up;M;54;N;da 5% a 10%;;;52744
+22/01/2014 00:00;Precordialgie e claudicatio;M;71;Si;da 20% a 40%;;;52785
+19/03/2014 00:00;Sincopi;M;77;S;da 20% a 40%;;;52815
+22/02/2016 00:00;;;;;;;;52877
+28/01/2014 00:00;CVE di FA;M;54;N; ;;;52882
+29/04/2014 00:00;VALUTAZIONE DEL RISCHIO CARDIOVASCOLARE; ;; ; ;;;52895
+29/05/2014 00:00;cardiopatia ischemica in follow-up; ;; ; ;;;52903
+29/05/2014 00:00;Sospetta ipertensione secondaria* ; ;; ; ;;;52941
+03/02/2014 00:00;BAV III congenito;F;41;N;<5%;;;52970
+26/05/2014 00:00;Sospetta ipertensione secondaria; ;; ; ;;;52996
+10/03/2014 00:00;pregresso episodio di TPSV;F;64;S;da 10% a 20%;;;53002
+04/02/2014 00:00;VALUTAZIONE DEL RISCHIO CARDIOVASCOLARE;M;65;S;da 20% a 40%;;;53003
+20/06/2014 00:00;cardioversione elettrica di fa; ;; ; ;;;53038
+20/06/2014 00:00;cardioversione elettrica di fa; ;; ; ;;;53091
+19/03/2014 00:00;cardiopatia ischemica in follow-up;M;63;N;da 10% a 20%;;;53101
+27/02/2014 00:00;Cardioversione elettrica di FA;M;75;S; ;;;53109
+02/05/2014 00:00;angina e dispnea da sforzo; ;; ; ;;;53123
+09/06/2014 00:00;cve di fa; ;; ; ;;;53128
+29/05/2014 00:00;sincope con trauma cranico; ;; ; ;;;53167
+18/03/2015 00:00;fibrillazione atriale e CVE. Ipertensione arteriosa.;Femmina;57;No;;23/03/2015 00:00;;53199
+06/03/2014 00:00;CARDIOVERSIONE ELETTRICA DI FA;F;51;N; ;;;53210
+02/07/2014 00:00;sospetta ipertensione secondaria; ;; ; ;;;53278
+02/05/2014 00:00;sospetta pericardite; ;; ; ;;;53301
+28/04/2014 00:00;Ipertensione resistente al trattamento farmacologico con paziente con idrocefalo con idrocefalo peritoneale.; ;; ; ;;;53321
+24/03/2014 00:00;valutazione del rischio cardiovascolare;M;69;N;da 20% a 40%;;;53346
+13/03/2014 00:00;Ipertensione arteriosa in scarso controllo farmacologico.Sospetta Ipertensione secondaria.;;;;;;;53351
+26/05/2014 00:00;Sospetta cardiopatia ischemica.; ;; ; ;;;53472
+15/04/2014 00:00;SINCOPE; ;; ; ;;;53509
+20/11/2014 00:00;CAD in follow up;;;;;;;53511
+28/04/2014 00:00;Sospetta sindrome di Brugada; ;; ; ;;;53517
+28/04/2014 00:00;Sospetta sindrome di Brugada; ;; ; ;;;53518
+02/05/2014 00:00;sincopi; ;; ; ;;;53567
+29/05/2014 00:00;SOSPETTA BRUGADA; ;; ; ;;;53588
+22/10/2014 00:00;sospetta ipertensione secondaria;;;;;;;53590
+24/09/2014 00:00;TVP; ;; ; ;;;53674
+15/05/2014 00:00;Palpitazioni ,fame d`aria extrasistolia ;Maschio;70;No; ;;;53681
+29/05/2014 00:00;Cardiopatia ischemica in follow-up; ;; ; ;;;53741
+09/06/2014 00:00;CVE di FA; ;; ; ;;;53747
+11/09/2014 00:00;cve di fa; ;; ; ;;;53818
+09/05/2014 00:00;tromboflebite arti inferiori; ;; ; ;;;53826
+25/11/2014 00:00;sospetta ipertensione secondaria; ;; ; ;;;53846
+21/10/2014 00:00;sospetta ipertensione secondaria* ;;;;;;;53851
+29/05/2014 00:00;Sospetta ipertensione secondaria; ;; ; ;;;53858
+14/05/2014 00:00;SOSPETTA CAD; ;; ; ;;;53861
+02/07/2014 00:00;DIA; ;; ; ;;;53963
+21/07/2014 00:00;cardiopatia ischemica in follow-up; ;; ; ;;;54061
+26/05/2014 00:00;Sospetta ipertensione secondaria; ;; ; ;;;54076
+11/09/2014 00:00;cve di fa; ;; ; ;;;54132
+16/04/2014 00:00;Sospetta displasia aritmogena del ventricolo dx.;;;;;;;54157
+17/09/2014 00:00;CVE DI FA; ;; ; ;;;54177
+28/07/2014 00:00;sospetta ipertensione secondaria; ;; ; ;;;54294
+28/07/2014 00:00;sincopi; ;; ; ;;;54300
+02/07/2014 00:00;sincope; ;; ; ;;;54310
+24/06/2014 00:00;cardiopatia dilatativa di ndd; ;; ; ;;;54315
+29/05/2014 00:00;cardioversione elettrica di FA; ;; ; ;;;54328
+18/06/2014 00:00;Cardiopatia ischemica cronica in follow-up; ;; ; ;;;54349
+09/06/2014 00:00;cve di fa; ;; ; ;;;54366
+04/06/2014 00:00;cardioversione elettrica di fibrillazione atriale.; ;; ; ;;;54370
+09/06/2014 00:00;cve di fa; ;; ; ;;;54370
+23/07/2014 00:00;sospetta ipertensione secondaria; ;; ; ;;;54393
+26/06/2014 00:00;SOSPETTA CARDIOPATIA ISCHEMICA; ;; ; ;;;54397
+09/06/2014 00:00;cve di fa;;;;;;;54407
+28/07/2014 00:00;CARDIOPATIA ISCHEMICA IN FOLLOW-UP; ;; ; ;;;54423
+01/12/2016 00:00;Recente comparsa di dispnea, tosse produttiva, febbricola associata a palpitazioni e astenia intensa in paziente iperteso;Maschio;72;No;da 10% a 20%;01/09/2016 00:00;;54458
+08/10/2014 00:00;sospetta ipertensione secondaria;;;;;;;54485
+29/12/2014 00:00;sospetta ipertensione secondaria;;;;;;;54550
+22/10/2014 00:00;CAD in follow-up.Aritmia ventricolare.;;;;;;;54619
+11/09/2014 00:00;SINCOPI; ;; ; ;;;54646
+22/07/2014 00:00;cardiopatia ischemica in follow-up; ;; ; ;;;54667
+28/07/2014 00:00;sospetta ipertensione secondaria; ;; ; ;;;54696
+15/07/2014 00:00;EXTRASISTOLIA; ;; ; ;;;54763
+18/09/2014 00:00;CVE DI FA E GASTROPATIA; ;; ; ;;;54817
+28/07/2014 00:00;sospetta ipertensione secondaria* ; ;; ; ;;;54831
+20/06/2014 00:00;cardioversione elettrica di fa; ;; ; ;;;54866
+15/09/2014 00:00;caridopalmo,claudicatio,dolore toracico atipico; ;; ; ;;;54869
+17/09/2014 00:00;labilità omeostasi pressoria; ;; ; ;;;54901
+18/06/2014 00:00;Dolore Toracico, nicturia, dispnea per sforzi fisici moderati;;;;;;;54945
+03/11/2014 00:00;SOSPETTA IPERTENSIONE SECONDARIA;;;;;;;54954
+24/09/2014 00:00;Sospetta ipertensione secondaria; ;; ; ;;;54997
+17/09/2014 00:00;DOLORE TORACICO; ;; ; ;;;55018
+03/11/2014 00:00;SOSPETTA IPERT.SECONDARIA;;;;;;;55073
+28/07/2014 00:00;cardioversione elettrica di fa; ;; ; ;;;55210
+27/11/2014 00:00;Sospetta secondaria;;;;;;;55287
+16/03/2015 00:00;Fibrillazione atriale e CVE;Femmina;63;No;;30/03/2015 00:00;;55368
+11/11/2014 00:00;cardiopatia ischemica in follow up;;;;;;;55637
+29/12/2016 00:00;;Maschio;64;No;;24/11/2016 00:00;;55637
+22/10/2014 00:00;dolore toracico atipico;;;;;;;55737
+10/09/2014 00:00;Ipertensione arteriosa con scarso controllo farmacologico;;;;;;;55756
+24/11/2014 00:00;cve di fa;;;;;;;55852
+03/03/2015 00:00;Sospetta ipertensione secondaria. Obesità.;Femmina;69;No;da 10% a 20%;16/07/2015 00:00;;55856
+14/01/2015 00:00;dolore toracico atipico, dispnea in paziente con anamnesi positiva per SCA.;Maschio;59;No;da 5% a 10%;16/03/2015 00:00;;56111
+22/10/2014 00:00;Cardiopalma aritmico;;;;;;;56128
+12/11/2014 00:00;Dispnea e dolore toracico;;;;;;;56300
+06/11/2014 00:00;Disturbi del ciclo sonno-veglia, dispnea ingravescente, cefalea;;;;;;;56463
+13/05/2015 00:00;dolore toracico atipico, dispnea e lipotimia;Femmina;66;No;;26/06/2015 00:00;;56711
+30/12/2014 00:00;valutazione rischio cardiovascolare.Otalgia e cefalea.;;;;;;;56790
+15/09/2015 00:00;Sospetta ipertensione secondaria, acufeni;;;;;;;56988
+03/02/2015 00:00;CVE DI FA;;;;;;;57077
+27/02/2015 00:00;Dolore toracico atipico;;;;;;;57337
+19/01/2015 00:00;dolore toracico atipico e sospetta ipertensione secondaria;Maschio;34;No;;26/02/2015 00:00;;57337
+28/01/2015 00:00;Sincope;;;;;;;57378
+25/02/2015 00:00;Cardiomiopatia dilatativa primitiva e gozzo tiroideo.;Maschio;56;Si;;30/03/2015 00:00;;57852
+09/03/2015 00:00;Cardiomiopatia dilatativa e valutazione impianto ICD.;Maschio;53;Si;;19/03/2015 00:00;;58036
+24/03/2015 00:00;FIBRILLAZIONE ATRIALE E CVE.;;;;;;;58145
+25/03/2015 00:00;dolore toracico atipico, dispnea, dislipidemia, diabete mellito scompensato;Maschio;;;;15/04/2015 00:00;;58287
+12/05/2015 00:00;Sospetta ipertensione secondaria;;;;;;;58394
+29/04/2015 00:00;Sospetta ipertensione secondaria.;;;;;;;58502
+15/04/2015 00:00;Sospetta Sindrome di Brugada.;;;;;;;58547
+16/02/2015 00:00;Blocco di branca sinistra, SPECT positiva.;;;;;;;58581
+22/04/2015 00:00;Pregressa ischemia cerebrale.;;;;;;;58646
+04/05/2015 00:00;dolore toracico, dipnea, palpitazioni;Maschio;;No;;16/07/2015 00:00;;58801
+11/05/2015 00:00;Dolore  toracico atipico  e dispnea per sforzi fiici di media entità;;;;;;;58893
+28/05/2015 00:00;Fibrillazione atriale e CVE. BPCO. Dislipidemia.;Maschio;;No;;16/07/2015 00:00;;58896
+14/05/2015 00:00;;;;;;;;58938
+21/05/2015 00:00;dolore toracico atipico e dispnea per sforzi fisici di media entità;Femmina;58;No;;;;58948
+11/06/2015 00:00;Insufficienza mitralica di grado severo e insufficienza aortica di grado lieve. Valutazione pereventuale impianto di mitral clip.;;;;;;;59057
+11/06/2015 00:00;disturbi della valvola mitrale e valutazione impianto MITRACLIP.;Maschio;79;No;;16/07/2015 00:00;;59057
+01/09/2015 00:00;Cardiopatia dilatativa con severa riduzione dell`EF= 30% a riposo.;;;;;;;101835
+27/05/2015 00:00;sospetta sindrome di brugada.;Maschio;29;No;<5%;16/07/2015 00:00;;101854
+03/06/2015 00:00;IMA anteriore esteso trattatyo con PTCA. Ipercolesterolemia. Diabete mellito di tipo II.Iperuricemia.;;;;;;;101912
+08/06/2015 00:00;Episodi sincopali in paziente affetto da CAD. ;Femmina;63;No;;16/07/2015 00:00;;101967
+24/06/2015 00:00;Incompetenza cronotropa durante test ergometrico.;;;;;;;102220
+30/06/2015 00:00;Instabilita`posturale con accentuazione dell`ipostenia dell`emilato destro;;;;;;;102283
+27/07/2015 00:00;Labiltà omeostasi pressoria, cefalea, riduzione del visus.;;;;;;;102372
+26/05/2016 00:00;Vasculopatia polidistrettuale di grado severo sintomatica per dolore toracico e addominale;;;;;;;102680
+08/09/2015 00:00;Valuitazione pre-TAVI di stenosi valvolare aortica di grado moderato-severo;;;;;;;102964
+08/06/2017 00:00;;;;;;;;103076
+18/04/2016 00:00;;;;;;;;103618
+10/02/2016 00:00;;;;;;;;104502
+30/03/2016 00:00;;;;;;;;104525
+25/01/2016 00:00;labilità omeostasi pressoria associata ad alterazioni del visus;;;;;;;104693
+03/05/2016 00:00;Sospetto di ipertensione arteriosa secondaria in paziente con frequenti crisi ipertensive e riscontro di iperaldosteronismo;;;;;;;104703
+26/01/2016 00:00;;;;;;;;104710
+23/03/2016 00:00;;;;;;;;104950
+29/12/2016 00:00;;Maschio;27;No;<5%;31/10/2016 00:00;;104985
+07/03/2016 00:00;;;;;;;;105034
+03/05/2016 00:00;Dolore precordiale in relazione a sforzi fisici;;;;;;;105237
+17/05/2016 00:00;;;;;;;;105422
+05/05/2016 00:00;;;;;;;;105493
+29/12/2016 00:00;;Maschio;67;No;;15/12/2016 00:00;;105530
+27/02/2017 00:00;Lesione occupante spazio al VI segmento epatico in corso di approfondimento diagnostico. ;;;;;;;105530
+19/04/2016 00:00;;;;;;;;105669
+05/05/2016 00:00;;;;;;;;105728
+16/06/2016 00:00;;;;;;;;105924
+28/04/2016 00:00;precordialgia in pz affetto da ipertensione arteriosa e diabete mellito;;;;;;;105948
+02/05/2016 00:00;;;;;;;;105979
+04/05/2016 00:00;;;;;;;;106009
+20/05/2016 00:00;;;;;;;;106061
+12/05/2016 00:00;;;;;;;;106069
+01/12/2016 00:00;Episodio di Fibrillazione Atriale in paziente con recente episodio di TIA e labilità dell`omeostasi pressoria;Maschio;74;No;da 20% a 40%;03/11/2016 00:00;;106198
+01/12/2016 00:00;Episodi sincopali (riferiti 3) preceduti da palpitazioni in paziente giovane con familiarità per eventi cardiovascolari;Maschio;40;No;da 5% a 10%;03/10/2016 00:00;;106271
+15/06/2016 00:00;;;;;;;;106376
+04/06/2016 00:00;;;;;;;;106411
+29/12/2016 00:00;;Maschio;73;No;da 10% a 20%;30/11/2016 00:00;;106501
+29/12/2016 00:00;;Femmina;41;No;<5%;16/12/2016 00:00;;106676
+29/12/2016 00:00;;Maschio;24;No;<5%;16/11/2016 00:00;;106683
+29/12/2016 00:00;;Femmina;26;No;<5%;01/12/2016 00:00;;106903
+29/12/2016 00:00;;Maschio;57;No;da 5% a 10%;07/12/2016 00:00;;106921
+29/12/2016 00:00;;Maschio;47;No;<5%;25/10/2016 00:00;;107001
+01/12/2016 00:00;Episodio sincopale associato a palpitazioni e ad alterazioni dell`omeostasi pressoria e a vertigini soggettive;Maschio;45;Si;da 5% a 10%;23/11/2016 00:00;;107416
+07/12/2016 00:00;;Maschio;65;No;da 20% a 40%;11/11/2016 00:00;;107417
+29/12/2016 00:00;;Maschio;78;Si;>40%;15/12/2016 00:00;;107603
+31/01/2017 00:00;Sospetto di difetto del setto interatriale;;;;;03/03/2017 00:00;;107720
+28/02/2017 00:00;Ipertensione arteriosa resistente a terapia;;;;;20/06/2017 00:00;;107786
+02/02/2017 00:00;Valutazione diagnostica in paziente con pregressa dissecazione aortica di tipo I, trattata con intervento di Bental e sostituzione aorta ascendente distale con protesi GelWeave.;Maschio;54;No;da 10% a 20%;02/02/2017 00:00;;107885
+19/01/2017 00:00;Ipertensione arteriosa secondaria ad adenoma surrenalico;;;;;;;107974
+29/12/2016 00:00;;Femmina;34;No;<5%;21/12/2016 00:00;;107996
+17/03/2017 00:00;Dispnea per sforzi lievi in paziente con versamento pleurico* multiple linfadenopatie ipermetaboliche in PET/TC. Sospetto linfoma.  ;;;;;;;109000
+14/03/2017 00:00;Aritmia totale da fibrillazione atriale persistente cardiovertita mediante DC-shock e coronata da successo. Cardiopatia ipertensiva. Aterosclerosi carotidea non emodinamicamente significativa;;;;;;;109024
+23/02/2017 00:00;Ipertensione con scarso controllo dei valori pressori;;;;;08/03/2017 00:00;;109110
+12/04/2017 00:00;Ipertensione in giovane età con reperto di ipercortisolismo;;;;;20/02/2017 00:00;;109156
+05/04/2017 00:00;Aritimia totale da FA candidata a cardioversione elettrica.;;;;;19/05/2017 00:00;;109593
+19/04/2017 00:00;Paziente ricoverato per crisi ipertensiva associata a cefalea e ipostenia dell`arto superiore destro;;;;;03/05/2017 00:00;;109863
+18/04/2017 00:00;Sospetta S. di Brugada;;;;;04/05/2017 00:00;;109888
+20/04/2017 00:00;aritmia totale da fibrillazione atriale;;;;;;;109889
+04/05/2017 00:00;Riscontro di PFO in paziente con anamensi positivia per malattie cerebrovascolari;;;;;29/05/2017 00:00;;109913
+08/05/2017 00:00;Cefalea fronto-occipitale e vertigini in fase di approfondimentoi diagnostico;;;;;08/05/2017 00:00;;110071
+16/05/2017 00:00;Approfondimenti diagnostici in dolore toracico di ndd;;;;;19/05/2017 00:00;;110174
+14/06/2017 00:00;Sospetta ipertensione secondaria;;;;;28/07/2017 00:00;;110294
+07/06/2017 00:00;fibrillazione atriale;;;;;02/08/2017 00:00;;110435
+28/11/2012 00:00;Cardiopatia ischemica in follow-up in paziente affetto da insufficienza cardiaca cronica;M;58;S;da 20% a 40%;;;227
+02/04/2012 00:00;Cardiopatia ischemica in follow-up;Maschio;67;N;da 10% a 20%;;;899
+08/04/2011 00:00;Valutazione delle complicanze e del rischio cardiovascolare;F;77;S;da 10% a 20%;;;1099
+19/04/2016 00:00;;;;;;;;1099
+06/07/2010 00:00;Cardiopatia dilatativa e/o ischemica in follow-up;F;58;S; ;16/09/2010 00:00;;1228
